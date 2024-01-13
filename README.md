@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **DevSecOps**
 
-- 👨‍💻 All of my projects are available at amanops.com
+- 👨‍💻 All of my projects are available at  [amanops.com](https://amanops.com)
 
 - 💬 Ask me about **DevOps**
 
