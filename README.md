@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate Clouds & DevOps Engineer</h3>
-<img align="right" atl="coding" width="400" svc="https://en.wikipedia.org/wiki/DevOps_toolchain#/media/File:Devops-toolchain.svg">
+<img align="right" atl="coding" width="400" svc="https://img.freepik.com/free-photo/female-entrepreneur-using-laptop_1098-16958.jpg?w=740&t=st=1705151517~exp=1705152117~hmac=ca1997f4c38880cc358b841849db702ead6081b06b540404e9de5e51f082b266">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
 
