@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate Clouds & DevOps Engineer</h3>
+<img align="right" atl="coding" width="400" svc="https://en.wikipedia.org/wiki/DevOps_toolchain#/media/File:Devops-toolchain.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
 
