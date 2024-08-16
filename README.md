@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
 
-- 🔭 I’m currently working on **US Projects**
+- 🔭 I’m currently working on **US Projects as well as Indian Projects**
 
 - 🌱 I’m currently learning **OpenShift**
 
