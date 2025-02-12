@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **US Projects as well as Indian Projects**
 
-- 🌱 I’m currently learning **OpenShift**
+- 🌱 I’m currently learning **OSCP**
 
 - 👯 I’m looking to collaborate on **DevSecOps Native Tools**
 
