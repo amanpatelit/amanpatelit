@@ -14,9 +14,11 @@
 
 - 👨‍💻 All of my projects are available at  [amanops.com](https://amanops.com)
 
-- 💬 Ask me about **DevOps,DeSecOps,GitOps&Plaftform**
+- 💬 Ask me about **DevOps | DeSecOps | GitOps | Plaftform**
 
 - 📫 How to reach me **amanpatel.itofficial@gmail.com**
+
+- 📫 How to reach me for Outage Handling Process 
 
 
 <h3 align="left">Connect with me:</h3>
