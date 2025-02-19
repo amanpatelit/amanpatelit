@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aman Patel</h1>
+<h1 align="center">Hi 👋, I'm Aman PAtel</h1>
 <h3 align="center">A passionate Multi Cloud, DevOps, DevSecOps Engineer - "Let's Code & Deploy"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelofficial-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelofficial-devops" /> </p>
 
-<img align="right" atl="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatelofficial-devops" alt="amanpatelofficial-devops" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -25,7 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://amanops.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="blog.amanops.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanpatelofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpatelofficial" height="30" width="40" /></a>
+<a href="https://hashnode.com/blog.amanops.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="blog.amanops.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,7 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amanops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanops" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatelitofficial&show_icons=true&locale=en&layout=compact" alt="amanpatelitofficial" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatelofficial-devops&show_icons=true&locale=en&layout=compact" alt="amanpatelofficial-devops" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpatelofficial-devops&show_icons=true&locale=en" alt="amanpatelofficial-devops" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelofficial-devops&" alt="amanpatelofficial-devops" /></p>
