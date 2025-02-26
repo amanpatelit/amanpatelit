@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **DevSecOps**
 
-- 👨‍💻 All of my projects are available at [amanops.com](amanops.com)
+- 👨‍💻 All of my projects are available at [amanops.com](https://amanops.com)
 
-- 📝 I regularly write articles on [blog.amanops.com](blog.amanops.com)
+- 📝 I regularly write articles on [blog.amanops.com](https://blog.amanops.com)
 
 - 💬 Ask me about **DevOps | DeSecOps | GitOps | Plaftform**
 
