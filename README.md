@@ -18,8 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [amanops.com](https://amanops.com)
 
-- 📝 I regularly write articles on [blog.amanops.com](https://blog.amanops.com)
-
 - 💬 Ask me about **DevOps | DeSecOps | GitOps | Plaftform**
 
 - 📫 How to reach me **amanpatel.itofficial@gmail.com**
