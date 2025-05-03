@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelitofficial" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelofficial-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelofficial-devops" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **US & UK as well as Indian Projects**
