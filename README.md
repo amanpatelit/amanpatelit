@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="500" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🔭 I’m currently working on **US & UK as well as Indian Projects**
 
