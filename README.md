@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **DevSecOps**
 
-- 👨‍💻 All of my projects are available at [amanops.com](https://amanops.com)
-
 - 💬 Ask me about **DevOps | DeSecOps | GitOps | Plaftform**
 
 - 📫 How to reach me **amanpatel.itofficial@gmail.com**
