@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **US & UK as well as Indian Projects**
 
-- 🌱 I’m currently learning **MlOps**
+- 🌱 I’m currently learning **MlOps,MCP Servers**
 
 - 👯 I’m looking to collaborate on **Cloud,DevOps & DevSecOps**
 
