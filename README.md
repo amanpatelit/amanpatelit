@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate Cloud & DevSecOps from India</h3>
 
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 🔭 I’m currently working on **US Projects**
 
 - 🌱 I’m currently learning **MlOps & MCP Servers**
