@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Industry Professionals**
 
-- 👨‍💻 All of my projects are available at [amansdlc.com](amansdlc.com)
+- 👨‍💻 All of my projects are available at www.amansdlc.com
 
 - 💬 Ask me about **Cloud & DevSecOps**
 
