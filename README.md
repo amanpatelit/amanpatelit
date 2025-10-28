@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MlOps & MCP Servers**
 
-- 👯 I’m looking to collaborate on **Cloud & DevSecOps**
+- 👯 I’m looking to collaborate on **Open Source Technologies**
 
 - 🤝 I’m looking for help with **Industry Professionals**
 
