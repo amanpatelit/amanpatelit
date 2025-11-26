@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Industry Professionals**
 
--👨‍💻 All of my projects are available at <a href="https://www.amansdlc.com" target="_blank">amansdlc.com</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.amansdlc.com" target="_blank">amansdlc.com</a>
 
 - 💬 Ask me about **Cloud & DevSecOps**
 
