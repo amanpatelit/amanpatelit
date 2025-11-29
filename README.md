@@ -5,21 +5,21 @@
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- ?? I’m currently working on **US Projects**
+- I’m currently working on **US Projects**
 
-- ?? I’m currently learning **MlOps & MCP Servers**
+- I’m currently learning **MlOps & MCP Servers**
 
-- ?? I’m looking to collaborate on **Open Source Technologies**
+- I’m looking to collaborate on **Open Source Technologies**
 
-- ?? I’m looking for help with **Industry Professionals**
+- I’m looking for help with **Industry Professionals**
 
-- ????? All of my projects are available at [amansdlc.com](amansdlc.com)
+- All of my projects are available at [amansdlc.com](amansdlc.com)
 
-- ?? I regularly write articles on [https://amanpatelofficial.substack.com/](https://amanpatelofficial.substack.com/)
+- I regularly write articles on [https://amanpatelofficial.substack.com/](https://amanpatelofficial.substack.com/)
 
-- ?? Ask me about **Cloud & DevSecOps**
+- Ask me about **Cloud & DevSecOps**
 
-- ?? How to reach me **amanpatel.itofficial@gmail.com**
+- How to reach me **amanpatel.itofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
