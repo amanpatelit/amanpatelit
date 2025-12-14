@@ -15,7 +15,7 @@
 
 - All of my projects are available at [amansdlc.com](https://amansdlc.com)
 
-- I regularly write articles on [https://amannewsletters.substack.com/](https://amannewsletters.substack.com/)
+- I regularly write articles on [https://amannewsletter.substack.com/](https://amannewsletter.substack.com/)
 
 - Ask me about **Cloud & DevSecOps**
 
