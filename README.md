@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Aman Patel</h1>
 <h3 align="center">A passionate Cloud & DevSecOps from India</h3>
+<h3 align="center">“Autoscaling isn’t a feature - it’s an engineering mindset.” - Aman Patel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
