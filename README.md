@@ -10,7 +10,7 @@
 
 ---
 
-###  About Me
+## 🚀 About Me
 
 - 🌍 Working on **US-based production projects**
 - 🧠 Currently learning **MLOps & MCP Servers**
@@ -23,7 +23,7 @@
 
 ---
 
-###  What I Do
+## 🧠 What I Do
 
 - Architect and operate **scalable cloud-native platforms**
 - Build **reliable CI/CD pipelines & automation workflows**
@@ -33,25 +33,27 @@
 
 ---
 
-### 🏆 Career Highlights
+## 🏆 Career Highlights
 
 - Managed **production Kubernetes clusters** at scale
 - Designed and executed **zero-downtime deployments**
 - Optimized infrastructure using **autoscaling & right-sizing**
 - Led cloud migrations and modernization initiatives
+- Built secure **DevSecOps pipelines** from scratch
 
 ---
 
-### 📌 Current Focus
+## 📌 Current Focus
 
 - Platform Engineering
 - Cloud Automation & Reliability
+- DevSecOps & Supply Chain Security
 - MLOps fundamentals
 - Next-generation infrastructure tooling
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/amanpatelofficial" target="_blank">
@@ -67,24 +69,68 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages, Platforms & DevOps Tools
 
+### ☁️ Cloud Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+</p>
+
+### 📦 Containers & Orchestration
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" width="40"/>
+</p>
+
+### 🔧 CI/CD & Automation
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+### 🏗️ Infrastructure as Code
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
+</p>
+
+### 🔐 Security & DevSecOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/vault/icon/color/vault-icon-color.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40"/>
+</p>
+
+### 📊 Monitoring, Logging & Observability
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/fluentd/icon/color/fluentd-icon-color.svg" width="40"/>
+</p>
+
+### 🧠 Databases & Messaging
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
+</p>
+
+### 💻 OS & Scripting
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight" />
