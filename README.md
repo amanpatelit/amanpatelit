@@ -102,5 +102,5 @@
 
 <h3 align="center">💡 Engineering Philosophy</h3>
 <p align="center">
-Infrastructure should be boring, scalable, secure — and invisible to users.
+Infrastructure should be boring, scalable, secure, and invisible to users.
 </p>
