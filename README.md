@@ -26,50 +26,28 @@
 ### 🚀 What I Do
 
 - Architect and operate **scalable cloud-native platforms**
-- Build **secure-by-default DevSecOps pipelines**
-- Design **production-grade Kubernetes & EKS environments**
-- Implement **observability, cost optimization & reliability engineering**
-- Enable teams to ship faster with **automation & platform engineering**
-
----
-
-### 🧠 Core Expertise
-
-- Cloud Architecture (AWS, Azure, GCP)
-- Kubernetes (EKS, Helm, Operators)
-- DevSecOps & Shift-Left Security
-- CI/CD (Jenkins, GitHub Actions)
-- Infrastructure as Code (Terraform, Ansible)
-- Observability (Prometheus, Grafana, ELK)
-- High Availability & Auto Scaling Systems
-
----
-
-### 🔐 DevSecOps Stack
-
-- SAST / DAST / Dependency Scanning
-- Container & Image Security
-- Secrets Management (Vault, KMS)
-- Policy as Code (OPA / Kyverno)
-- Runtime Security & Compliance
+- Build **reliable CI/CD pipelines & automation workflows**
+- Design and manage **production-grade Kubernetes environments**
+- Implement **monitoring, observability & performance optimization**
+- Enable teams to ship faster with **platform engineering practices**
 
 ---
 
 ### 🏆 Career Highlights
 
 - Managed **production Kubernetes clusters** at scale
-- Designed **zero-downtime deployments**
-- Reduced infrastructure costs via **autoscaling & right-sizing**
-- Led cloud migrations & platform modernization initiatives
+- Designed and executed **zero-downtime deployments**
+- Optimized infrastructure using **autoscaling & right-sizing**
+- Led cloud migrations and modernization initiatives
 
 ---
 
 ### 📌 Current Focus
 
-- Advanced DevSecOps patterns
-- Platform Engineering & Internal Developer Platforms (IDP)
-- MLOps pipelines & model deployment
-- MCP Servers & next-gen automation
+- Platform Engineering
+- Cloud Automation & Reliability
+- MLOps fundamentals
+- Next-generation infrastructure tooling
 
 ---
 
@@ -98,7 +76,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
