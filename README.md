@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🌍 Working on **US-based production projects**
 - 🧠 Currently learning **MLOps & MCP Servers**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 - Architect and operate **scalable cloud-native platforms**
 - Build **reliable CI/CD pipelines & automation workflows**
