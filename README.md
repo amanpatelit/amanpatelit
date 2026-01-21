@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aman Patel 👋</h1>
-<h3 align="center">Cloud & DevSecOps Engineer from India 🇮🇳</h3>
+<h3 align="center">Cloud & DevSecOps Engineer from India</h3>
 <h3 align="center">“Autoscaling isn’t a feature — it’s an engineering mindset.”</h3>
 
 <p align="left">
