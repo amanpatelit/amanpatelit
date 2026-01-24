@@ -12,14 +12,14 @@
 
 ##  About Me
 
-- 🌍 Working on **US-based production projects**
-- 🧠 Currently learning **MLOps & MCP Servers**
-- 🤝 Open to collaborating on **Open Source & Cloud-Native projects**
-- 🎯 Seeking guidance & collaboration with **industry professionals**
-- 🌐 Portfolio: **https://amansdlc.com**
-- ✍️ Writing at **https://amannewsletter.substack.com/**
-- 💬 Ask me about **Cloud, Kubernetes & DevSecOps**
-- 📫 Reach me at **amanpatel.itofficial@gmail.com**
+-  Working on **US-based production projects**
+-  Currently learning **MLOps & MCP Servers**
+-  Open to collaborating on **Open Source & Cloud-Native projects**
+-  Seeking guidance & collaboration with **industry professionals**
+-  Portfolio: **https://amansdlc.com**
+-  Writing at **https://amannewsletter.substack.com/**
+-  Ask me about **Cloud, Kubernetes & DevSecOps**
+-  Reach me at **amanpatel.itofficial@gmail.com**
 
 ---
 
