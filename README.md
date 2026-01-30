@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Aman Patel 👋</h1>
-<h3 align="center">Cloud & DevSecOps Engineer from India</h3>
-<h3 align="center">“Autoscaling isn’t a feature, it’s an engineering mindset.”</h3>
+<h1 align="center">Aman Patel 👋</h1>
+<h3 align="center">Senior Cloud | DevOps | DevSecOps Engineer</h3>
+<h4 align="center">Designing scalable, secure & reliable cloud-native platforms</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" />
@@ -10,46 +10,51 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
--  Working on **US-based production projects**
--  Currently learning **MLOps & MCP Servers**
--  Open to collaborating on **Open Source & Cloud-Native projects**
--  Seeking guidance & collaboration with **industry professionals**
--  Portfolio: **https://amansdlc.com**
--  Writing at **https://amannewsletter.substack.com/**
--  Ask me about **Cloud, Kubernetes & DevSecOps**
--  Reach me at **amanpatel.itofficial@gmail.com**
+Cloud & DevSecOps Engineer with strong experience designing, automating, and operating **production-grade cloud infrastructure** across AWS and Kubernetes ecosystems.  
+Focused on **reliability, scalability, security, and developer productivity**.
+
+- 🚀 Working on **US-based production systems**
+- 📚 Currently exploring **MLOps & modern platform engineering**
+- 🤝 Open to **Open Source & Cloud-Native collaborations**
+- 🧠 Passionate about **automation, observability & system reliability**
+- 🌐 Portfolio: **https://amansdlc.com**
+- ✍️ Writing: **https://amannewsletter.substack.com/**
+- 💬 Ask me about **Cloud, Kubernetes, DevOps & DevSecOps**
+- 📩 Contact: **amanpatel.itofficial@gmail.com**
 
 ---
 
-##  What I Do
+## 🚀 What I Do
 
 - Architect and operate **scalable cloud-native platforms**
-- Build **reliable CI/CD pipelines & automation workflows**
-- Design and manage **production-grade Kubernetes environments**
-- Implement **monitoring, observability & performance optimization**
-- Enable teams to ship faster with **platform engineering practices**
+- Build **secure CI/CD pipelines and automated delivery workflows**
+- Deploy and manage **production Kubernetes clusters (EKS/GKE/Hybrid)**
+- Implement **monitoring, logging & observability stacks**
+- Improve **system reliability, performance & cost optimization**
+- Enable teams with **platform engineering & self-service tooling**
 
 ---
 
 ## 🏆 Career Highlights
 
-- Managed **production Kubernetes clusters** at scale  
-- Designed and executed **zero-downtime deployments**  
-- Optimized infrastructure using **autoscaling & right-sizing**  
-- Led cloud migrations and modernization initiatives  
-- Built secure **DevSecOps pipelines**  
+- Managed **large-scale Kubernetes production environments**
+- Delivered **zero-downtime deployments** and blue/green strategies
+- Reduced infrastructure cost using **autoscaling & right-sizing**
+- Led **cloud migration and modernization initiatives**
+- Designed **end-to-end DevSecOps pipelines** with security scanning & compliance
+- Built **high-availability architectures** supporting critical workloads
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-- Platform Engineering  
-- Cloud Automation & Reliability  
-- DevSecOps & Supply Chain Security  
-- MLOps fundamentals  
-- Next-generation infrastructure tooling  
+- Platform Engineering & Internal Developer Platforms (IDP)
+- Cloud Automation & Infrastructure as Code
+- DevSecOps & Supply Chain Security
+- MLOps Foundations
+- Reliability Engineering (SRE practices)
 
 ---
 
@@ -70,6 +75,8 @@
 ---
 
 ## 🛠️ Technologies & Tools
+
+Cloud • Containers • CI/CD • IaC • Security • Observability
 
 <p align="left">
 
@@ -128,5 +135,5 @@
 
 <h3 align="center">💡 Engineering Philosophy</h3>
 <p align="center">
-Infrastructure should be boring, scalable, secure, and invisible to users.
+Build systems that are reliable, secure, scalable, and invisible to end users.
 </p>
