@@ -1,44 +1,40 @@
-<h1 align="center">Hi 👋, I'm Aman Patel</h1>
+<h1 align="center">Aman Patel</h1>
 <h3 align="center">Cloud • DevOps • DevSecOps Engineer</h3>
 
 <p align="center">
-Building scalable cloud platforms • Automating CI/CD • Securing production systems
+Designing scalable cloud infrastructure • Automating deployments • Securing production systems
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" />
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=flat&margin-w=10" />
-  </a>
-</p>
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💼 DevOps Engineer with **4+ years of experience**
-- ☁️ Managing **AWS, Kubernetes (EKS), Docker & production workloads**
-- 🔭 Working on **large-scale US client infrastructures**
-- 🌱 Exploring **MLOps, DevSecOps & Platform Engineering**
-- 👯 Open to **Open Source & Cloud collaborations**
-- 💬 Ask me about **AWS • Kubernetes • CI/CD • DevSecOps • Linux**
-- 📫 **amanpatel.itofficial@gmail.com**
+DevOps Engineer with **4+ years of experience** building, automating, and managing **production-grade cloud infrastructure**.
 
----
+- Architecting workloads on **AWS & Kubernetes (EKS)**
+- Designing **CI/CD pipelines** and release automation
+- Implementing **DevSecOps & security best practices**
+- Managing **high-availability systems for US-based clients**
+- Passionate about **Platform Engineering & Cloud-native systems**
 
-## 🌐 Portfolio & Writing
-
-- 👨‍💻 Projects → https://amansdlc.com  
-- 📝 Blog → https://amanpatelofficial.substack.com/
+📫 **amanpatel.itofficial@gmail.com**
 
 ---
 
-## 🤝 Connect with me
+## Portfolio & Writing
+
+- Website → https://amansdlc.com  
+- Blog → https://amanpatelofficial.substack.com/
+
+---
+
+## Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/amanpatelofficial">LinkedIn</a> •
@@ -48,7 +44,7 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 
 ---
 
-## 🛠️ Core Tech Stack
+## Core Technologies
 
 <p align="left">
 
@@ -69,7 +65,7 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=dark&hide_border=true" />
@@ -77,21 +73,21 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 
 ---
 
-## 🚀 Professional Highlights
+## Professional Highlights
 
-- ⚙️ Designed & managed **production-grade AWS cloud infrastructure**
-- ☁️ Deployed applications on **Kubernetes (EKS) with Helm**
-- 🔁 Built **multi-stage CI/CD pipelines** with Jenkins & Docker
-- 🔐 Implemented **DevSecOps security scanning & hardened deployments**
-- 📈 Architected **high-availability systems using Load Balancers & Auto Scaling**
-- 🐧 Strong **Linux & Infrastructure Automation** expertise
+- Designed & managed **scalable AWS cloud infrastructure**
+- Deployed **containerized microservices on Kubernetes (EKS)**
+- Built **multi-stage CI/CD pipelines** with Jenkins & Docker
+- Integrated **security scanning and DevSecOps controls**
+- Implemented **auto-scaling, load balancing, and monitoring**
+- Strong foundation in **Linux systems & infrastructure automation**
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 Cloud Architecture • Kubernetes Platform Engineering • DevSecOps • MLOps • Infrastructure as Code
 
 ---
 
-<h3 align="center">💡 “Automate everything. Secure everything. Scale without limits.”</h3>
+<h3 align="center">Automate everything. Secure everything. Scale without limits.</h3>
