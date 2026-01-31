@@ -22,9 +22,9 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 ## 🚀 About Me
 
 - 💼 DevOps Engineer with **4+ years of experience**
-- ☁️ Managing **AWS Cloud, Kubernetes (EKS), Docker & production workloads**
-- 🔭 Currently working on **large-scale US client infrastructures**
-- 🌱 Learning **MLOps, Platform Engineering & DevSecOps**
+- ☁️ Managing **AWS, Kubernetes (EKS), Docker & production workloads**
+- 🔭 Working on **large-scale US client infrastructures**
+- 🌱 Exploring **MLOps, DevSecOps & Platform Engineering**
 - 👯 Open to **Open Source & Cloud collaborations**
 - 💬 Ask me about **AWS • Kubernetes • CI/CD • DevSecOps • Linux**
 - 📫 **amanpatel.itofficial@gmail.com**
@@ -52,25 +52,16 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 
 <p align="left">
 
-<!-- Cloud -->
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/></a>
 <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/></a>
-
-<!-- Containers -->
 <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/></a>
 <a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/></a>
 <a href="https://helm.sh"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" width="45"/></a>
-
-<!-- DevOps -->
 <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/></a>
 <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/></a>
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
-
-<!-- Monitoring -->
 <a href="https://grafana.com"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/></a>
 <a href="https://www.elastic.co"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="45"/></a>
-
-<!-- Languages -->
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
 <a href="https://nginx.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/></a>
 
@@ -78,15 +69,10 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatelit&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -94,19 +80,11 @@ Building scalable cloud platforms • Automating CI/CD • Securing production s
 ## 🚀 Professional Highlights
 
 - ⚙️ Designed & managed **production-grade AWS cloud infrastructure**
-- ☁️ Deployed scalable applications on **Kubernetes (EKS) clusters using Helm**
+- ☁️ Deployed applications on **Kubernetes (EKS) with Helm**
 - 🔁 Built **multi-stage CI/CD pipelines** with Jenkins & Docker
 - 🔐 Implemented **DevSecOps security scanning & hardened deployments**
-- 📈 Architected **high-availability systems with Load Balancers & Auto Scaling**
-- 🐧 Strong expertise in **Linux, scripting & Infrastructure Automation**
-
----
-
-## 📌 Featured Work
-
-- 🚀 **AmanOps** – Cloud & DevOps platform engineering projects
-- 🏃 **RunTheDay** – Infrastructure management & cloud migration
-- ⚡ CI/CD Automation – Dockerized microservices deployed to EKS
+- 📈 Architected **high-availability systems using Load Balancers & Auto Scaling**
+- 🐧 Strong **Linux & Infrastructure Automation** expertise
 
 ---
 
