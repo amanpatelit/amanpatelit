@@ -1,6 +1,6 @@
 <h1 align="center">Aman Patel 👋</h1>
 <h3 align="center">Senior Cloud | DevOps | DevSecOps Engineer</h3>
-<h4 align="center">Designing scalable, secure & reliable cloud-native platforms</h4>
+<h4 align="center">Building scalable, secure & production-ready cloud platforms</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" />
@@ -12,49 +12,52 @@
 
 ## 👨‍💻 About Me
 
-Cloud & DevSecOps Engineer with strong experience designing, automating, and operating **production-grade cloud infrastructure** across AWS and Kubernetes ecosystems.  
-Focused on **reliability, scalability, security, and developer productivity**.
+Senior **Cloud & DevSecOps Engineer** with 4+ years of experience designing, automating, and operating **large-scale production infrastructure** across AWS and Kubernetes ecosystems.
 
-- 🚀 Working on **US-based production systems**
-- 📚 Currently exploring **MLOps & modern platform engineering**
-- 🤝 Open to **Open Source & Cloud-Native collaborations**
-- 🧠 Passionate about **automation, observability & system reliability**
-- 🌐 Portfolio: **https://amansdlc.com**
-- ✍️ Writing: **https://amannewsletter.substack.com/**
-- 💬 Ask me about **Cloud, Kubernetes, DevOps & DevSecOps**
-- 📩 Contact: **amanpatel.itofficial@gmail.com**
+I specialize in building **highly reliable, secure, and cost-efficient platforms** that enable teams to ship faster with confidence.
 
----
+- 🚀 Managing **US-based production systems**
+- ⚙️ Expert in **AWS, Kubernetes, CI/CD & Infrastructure Automation**
+- 🔐 Strong focus on **DevSecOps & Cloud Security**
+- 📈 Passionate about **observability, reliability & performance engineering**
+- 🤝 Open to **Cloud-Native & Open Source collaborations**
 
-## 🚀 What I Do
-
-- Architect and operate **scalable cloud-native platforms**
-- Build **secure CI/CD pipelines and automated delivery workflows**
-- Deploy and manage **production Kubernetes clusters (EKS/GKE/Hybrid)**
-- Implement **monitoring, logging & observability stacks**
-- Improve **system reliability, performance & cost optimization**
-- Enable teams with **platform engineering & self-service tooling**
+🌐 Portfolio: https://amansdlc.com  
+✍️ Blog: https://amannewsletter.substack.com/  
+📩 Contact: amanpatel.itofficial@gmail.com  
 
 ---
 
-## 🏆 Career Highlights
+## 🚀 Core Expertise
 
-- Managed **large-scale Kubernetes production environments**
-- Delivered **zero-downtime deployments** and blue/green strategies
-- Reduced infrastructure cost using **autoscaling & right-sizing**
-- Led **cloud migration and modernization initiatives**
-- Designed **end-to-end DevSecOps pipelines** with security scanning & compliance
-- Built **high-availability architectures** supporting critical workloads
+- Cloud Architecture & Infrastructure Design
+- Kubernetes (EKS/GKE/Hybrid) Operations
+- CI/CD & Release Engineering
+- Infrastructure as Code (Terraform/Ansible)
+- DevSecOps & Security Automation
+- Observability & Monitoring (Logs, Metrics, Traces)
+- Cost Optimization & Reliability Engineering
+
+---
+
+## 🏆 Professional Highlights
+
+- Led and operated **large-scale Kubernetes production clusters**
+- Delivered **zero-downtime deployments** using blue/green & rolling strategies
+- Reduced cloud costs via **autoscaling, right-sizing & architecture optimization**
+- Designed **secure DevSecOps pipelines** with automated scanning & compliance
+- Executed **cloud migrations & modernization initiatives**
+- Built **high-availability, fault-tolerant architectures** for mission-critical systems
 
 ---
 
 ## 🎯 Current Focus
 
 - Platform Engineering & Internal Developer Platforms (IDP)
-- Cloud Automation & Infrastructure as Code
 - DevSecOps & Supply Chain Security
+- Advanced Kubernetes & Cloud Automation
 - MLOps Foundations
-- Reliability Engineering (SRE practices)
+- Site Reliability Engineering (SRE Practices)
 
 ---
 
@@ -135,5 +138,5 @@ Cloud • Containers • CI/CD • IaC • Security • Observability
 
 <h3 align="center">💡 Engineering Philosophy</h3>
 <p align="center">
-Build systems that are reliable, secure, scalable, and invisible to end users.
+Design systems that are secure, scalable, reliable, and effortless for teams to operate.
 </p>
