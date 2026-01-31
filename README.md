@@ -2,7 +2,7 @@
 <h3 align="center">Cloud • DevOps • DevSecOps Engineer</h3>
 
 <p align="center">
-Designing scalable cloud infrastructure • Automating deployments • Securing production systems
+Designing scalable cloud infrastructure • Automating CI/CD • Securing production systems
 </p>
 
 <p align="left">
@@ -15,13 +15,13 @@ Designing scalable cloud infrastructure • Automating deployments • Securing 
 
 ## About Me
 
-DevOps Engineer with **4+ years of experience** building, automating, and managing **production-grade cloud infrastructure**.
+DevOps Engineer with **4+ years of experience** building and operating **production-grade cloud platforms**.
 
-- Architecting workloads on **AWS & Kubernetes (EKS)**
-- Designing **CI/CD pipelines** and release automation
+- Architecting infrastructure on **AWS & Kubernetes (EKS)**
+- Designing **CI/CD pipelines and automated deployments**
 - Implementing **DevSecOps & security best practices**
 - Managing **high-availability systems for US-based clients**
-- Passionate about **Platform Engineering & Cloud-native systems**
+- Focused on **Platform Engineering & Cloud-native systems**
 
 📫 **amanpatel.itofficial@gmail.com**
 
@@ -29,8 +29,8 @@ DevOps Engineer with **4+ years of experience** building, automating, and managi
 
 ## Portfolio & Writing
 
-- Website → https://amansdlc.com  
-- Blog → https://amanpatelofficial.substack.com/
+- 🌐 Website → https://amansdlc.com  
+- ✍️ Blog → https://amanpatelofficial.substack.com/
 
 ---
 
@@ -68,7 +68,7 @@ DevOps Engineer with **4+ years of experience** building, automating, and managi
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,9 +78,9 @@ DevOps Engineer with **4+ years of experience** building, automating, and managi
 - Designed & managed **scalable AWS cloud infrastructure**
 - Deployed **containerized microservices on Kubernetes (EKS)**
 - Built **multi-stage CI/CD pipelines** with Jenkins & Docker
-- Integrated **security scanning and DevSecOps controls**
-- Implemented **auto-scaling, load balancing, and monitoring**
-- Strong foundation in **Linux systems & infrastructure automation**
+- Integrated **DevSecOps security scanning and compliance checks**
+- Implemented **auto-scaling, load balancing & observability**
+- Strong expertise in **Linux systems & infrastructure automation**
 
 ---
 
