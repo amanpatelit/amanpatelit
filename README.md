@@ -1,142 +1,120 @@
 <h1 align="center">Aman Patel 👋</h1>
-<h3 align="center">Senior Cloud | DevOps | DevSecOps Engineer</h3>
-<h4 align="center">Building scalable, secure & production-ready cloud platforms</h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" />
+<h3 align="center">Senior Cloud | DevOps | DevSecOps Engineer</h3>
+<h4 align="center">Designing scalable, secure & production-grade cloud platforms</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<p align="center">
+  <img height="280" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior **Cloud & DevSecOps Engineer** with 4+ years of experience designing, automating, and operating **large-scale production infrastructure** across AWS and Kubernetes ecosystems.
+Senior **Cloud & DevSecOps Engineer** with 4+ years of experience building and operating **large-scale production infrastructure** across AWS and Kubernetes.
 
-I specialize in building **highly reliable, secure, and cost-efficient platforms** that enable teams to ship faster with confidence.
+I focus on:
 
-- 🚀 Managing **US-based production systems**
-- ⚙️ Expert in **AWS, Kubernetes, CI/CD & Infrastructure Automation**
-- 🔐 Strong focus on **DevSecOps & Cloud Security**
-- 📈 Passionate about **observability, reliability & performance engineering**
-- 🤝 Open to **Cloud-Native & Open Source collaborations**
+- Reliable architectures  
+- Secure systems  
+- Automated delivery  
+- Developer productivity  
 
-🌐 Portfolio: https://amansdlc.com  
-✍️ Blog: https://amannewsletter.substack.com/  
-📩 Contact: amanpatel.itofficial@gmail.com  
+### Quick Facts
+
+- 🚀 Managing US-based production workloads
+- ☸️ Kubernetes & Platform Engineering specialist
+- 🔐 DevSecOps & Security automation advocate
+- 📈 Obsessed with reliability, monitoring & performance
+- 🤝 Open to Cloud-Native & Open Source collaborations
+
+🌐 Portfolio → https://amansdlc.com  
+✍️ Blog → https://amannewsletter.substack.com/  
+📩 Email → amanpatel.itofficial@gmail.com  
 
 ---
 
 ## 🚀 Core Expertise
 
-- Cloud Architecture & Infrastructure Design
-- Kubernetes (EKS/GKE/Hybrid) Operations
+- Cloud Architecture (AWS / GCP / Azure)
+- Kubernetes (EKS / GKE / Hybrid)
 - CI/CD & Release Engineering
-- Infrastructure as Code (Terraform/Ansible)
-- DevSecOps & Security Automation
-- Observability & Monitoring (Logs, Metrics, Traces)
-- Cost Optimization & Reliability Engineering
+- Infrastructure as Code (Terraform / Ansible)
+- DevSecOps & Supply Chain Security
+- Observability (Prometheus, Grafana, ELK)
+- Cost Optimization & SRE Practices
 
 ---
 
-## 🏆 Professional Highlights
+## 🏆 Career Highlights
 
-- Led and operated **large-scale Kubernetes production clusters**
-- Delivered **zero-downtime deployments** using blue/green & rolling strategies
-- Reduced cloud costs via **autoscaling, right-sizing & architecture optimization**
-- Designed **secure DevSecOps pipelines** with automated scanning & compliance
-- Executed **cloud migrations & modernization initiatives**
-- Built **high-availability, fault-tolerant architectures** for mission-critical systems
+- Operated **large-scale Kubernetes production clusters**
+- Achieved **zero-downtime deployments**
+- Reduced **cloud costs via autoscaling & right-sizing**
+- Built **secure DevSecOps pipelines**
+- Led **cloud migrations & modernization**
+- Designed **high-availability architectures**
 
 ---
 
 ## 🎯 Current Focus
 
-- Platform Engineering & Internal Developer Platforms (IDP)
-- DevSecOps & Supply Chain Security
-- Advanced Kubernetes & Cloud Automation
+- Platform Engineering & Internal Developer Platforms
+- Advanced Kubernetes Automation
+- DevSecOps & Compliance
 - MLOps Foundations
-- Site Reliability Engineering (SRE Practices)
+- Reliability Engineering (SRE)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/amanpatelofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/amanpatelofficial">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/amanpatel.it" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="https://instagram.com/amanpatel.it">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@amanpateltalk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+  <a href="https://www.youtube.com/@amanpateltalk">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
-Cloud • Containers • CI/CD • IaC • Security • Observability
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,helm,jenkins,githubactions,terraform,ansible,linux,python,bash,git,prometheus,grafana,postgres,mongodb,redis,rabbitmq" />
+</p>
 
-<p align="left">
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+# 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" width="40"/>
+<p align="center">
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/>
+<img height="165" src="https://streak-stats.demolab.com?user=amanpatelit&theme=tokyonight&hide_border=true" />
 
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/vault/icon/color/vault-icon-color.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo.png" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40"/>
+</p>
 
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/fluentd/icon/color/fluentd-icon-color.svg" width="40"/>
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 💡 Engineering Philosophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="center">💡 Engineering Philosophy</h3>
-<p align="center">
-Design systems that are secure, scalable, reliable, and effortless for teams to operate.
+Build systems that are secure • scalable • reliable • invisible to users
 </p>
