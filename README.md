@@ -189,5 +189,5 @@ DevOps Engineer with **4+ years of experience** building and operating **product
 ---
 
 <h3 align="center">
-Automate everything. Secure everything. Scale without limits.
+ Automate everything. Secure everything. Scale without limits.
 </h3>
