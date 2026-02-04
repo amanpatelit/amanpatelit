@@ -2,192 +2,107 @@
 <h3 align="center">Cloud • DevOps • DevSecOps Engineer</h3>
 
 <p align="center">
-Designing scalable cloud infrastructure • Automating CI/CD • Securing production systems
+Building reliable cloud platforms • Automating delivery • Securing production systems
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
----
-
-## 🚀 About Me
-
-DevOps Engineer with **4+ years of experience** building, automating, and operating **production-grade cloud platforms**.
-
-- ☁️ Architecting infrastructure on AWS & Kubernetes (EKS)
-- 🚀 Designing CI/CD pipelines and fully automated deployments
-- 🔐 Implementing DevSecOps and security best practices
-- 📈 Managing highly available systems for US-based clients
-- 🧠 Focused on Platform Engineering and cloud-native architectures
-
-📫 **amanpatel.itofficial@gmail.com**
-
----
-
-## 🌐 Portfolio & Writing
-
-- Website → https://amansdlc.com  
-- Blog → https://amanpatelofficial.substack.com/
-
----
-
-## 🤝 Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/amanpatelofficial">LinkedIn</a> •
-<a href="https://instagram.com/amanpatel.it">Instagram</a> •
-<a href="https://www.youtube.com/c/@amanpatelletscodeanddeploy">YouTube</a>
-</p>
-
----
-
-# 🧰 Core Technologies
-
-## ☁️ Cloud Platforms
-<p>
-<a href="https://aws.amazon.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-</a>
-<a href="https://cloud.google.com">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 🚀 Containers & Orchestration
-<p>
-<a href="https://kubernetes.io">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-</a>
-<a href="https://www.docker.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-</a>
-<a href="https://helm.sh">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" width="45"/>
-</a>
-<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 🔁 CI/CD & Automation
-<p>
-<a href="https://www.jenkins.io">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-</a>
-<a href="https://github.com/features/actions">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-</a>
-<a href="https://git-scm.com">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-</a>
-<a href="https://www.ansible.com">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/>
-</a>
-<a href="https://www.terraform.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 🏗️ Infrastructure as Code & Platform Engineering
-<p>
-<a href="https://www.terraform.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
-</a>
-<a href="https://helm.sh">
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" width="45"/>
-</a>
-<a href="https://kustomize.io">
-<img src="https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/docs/images/kustomize.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 🔐 DevSecOps & Security
-<p>
-<a href="https://aquasec.com">
-<img src="https://avatars.githubusercontent.com/u/18617862?s=200&v=4" width="45"/>
-</a>
-<a href="https://trivy.dev">
-<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="45"/>
-</a>
-<a href="https://owasp.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/OWASP_logo.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 📊 Observability & Monitoring
-<p>
-<a href="https://grafana.com">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
-</a>
-<a href="https://prometheus.io">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45"/>
-</a>
-<a href="https://www.elastic.co">
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 🖥️ Systems & Networking
-<p>
-<a href="https://www.linux.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</a>
-<a href="https://nginx.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/>
-</a>
-<a href="https://www.cloudflare.com">
-<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 💻 Scripting & Programming
-<p>
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-</a>
-<a href="https://www.gnu.org/software/bash">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
-</a>
-</p>
-
----
-
-## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
+<a href="https://linkedin.com/in/amanpatelofficial">LinkedIn</a> •
+<a href="https://amansdlc.com">Portfolio</a> •
+<a href="https://amanpatelofficial.substack.com/">Blog</a> •
+<a href="mailto:amanpatel.itofficial@gmail.com">Email</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🏆 Professional Highlights
+## About Me
 
-- Designed and managed scalable cloud infrastructure on AWS
-- Deployed containerized microservices on Kubernetes (EKS)
-- Built multi-stage CI/CD pipelines using Jenkins and Docker
-- Integrated DevSecOps scanning and compliance checks into pipelines
-- Implemented autoscaling, load balancing, and observability solutions
-- Strong expertise in Linux systems, networking, and automation
+DevOps & Cloud Engineer with **4+ years of experience** architecting, automating, and operating **production-grade cloud infrastructure** for global clients.
+
+I specialize in:
+
+- Cloud-native architectures on AWS & Kubernetes
+- CI/CD automation and release engineering
+- DevSecOps and security-first deployments
+- Platform reliability, monitoring, and scaling
+- Infrastructure as Code & GitOps practices
+
+Focused on **Platform Engineering, scalability, and highly available systems**.
 
 ---
 
-<h3 align="center">
-Automate everything • Secure everything • Scale without limits
-</h3>
+## Core Expertise
+
+### Cloud & Infrastructure
+AWS (EKS, EC2, VPC, IAM, RDS, ALB, CloudFront, Route53)  
+Google Cloud Platform  
+Multi-account & hybrid cloud setups  
+
+### Containers & Orchestration
+Kubernetes (EKS, self-managed) • Docker • Helm • Kustomize • OpenShift  
+
+### CI/CD & Automation
+Jenkins • GitHub Actions • Terraform • Ansible • GitOps  
+
+### DevSecOps & Observability
+Trivy • Aqua Security • OWASP • Prometheus • Grafana • ELK  
+
+### Systems
+Linux (RHEL/Ubuntu/SUSE) • Nginx • Networking • Security Hardening  
+
+---
+
+## Professional Highlights
+
+- Designed scalable AWS infrastructure serving production workloads
+- Managed Kubernetes clusters with zero-downtime deployments
+- Built multi-stage CI/CD pipelines reducing release time by 70%
+- Integrated security scanning into pipelines (shift-left DevSecOps)
+- Implemented autoscaling, monitoring, and disaster recovery strategies
+- Led deployments for US-based enterprise clients
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
+
+</p>
+
+---
+
+## Currently Exploring
+
+- Platform Engineering
+- DevSecOps automation
+- Kubernetes internals
+- OpenShift ecosystems
+- Cloud security best practices
+
+---
+
+## Philosophy
+
+> Automate everything  
+> Secure by default  
+> Design for scale  
+> Ship with confidence  
+
+---
+
+<p align="center">
+Open to collaborations • Cloud Architecture • DevOps • Platform Engineering
+</p>
