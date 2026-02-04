@@ -27,14 +27,10 @@ I specialize in turning complex infrastructure into **fully automated, secure, a
 
 📫 **amanpatel.itofficial@gmail.com**
 
----
-
 ## 🌐 Portfolio & Writing
 
 - 🌍 Website → https://amansdlc.com  
 - ✍️ Blog → https://amanpatelofficial.substack.com/
-
----
 
 ## 🤝 Connect With Me
 
@@ -43,8 +39,6 @@ I specialize in turning complex infrastructure into **fully automated, secure, a
 <a href="https://instagram.com/amanpatel.it">Instagram</a> •
 <a href="https://www.youtube.com/c/@amanpatelletscodeanddeploy">YouTube</a>
 </p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -60,15 +54,11 @@ CloudWatch • Security Scanning • CI/CD Hardening • Monitoring • Logging
 ### Systems
 Linux • Networking • Infrastructure Design • Performance Optimization
 
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 🏆 Professional Highlights
 
