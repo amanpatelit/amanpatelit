@@ -11,7 +11,6 @@ Designing scalable cloud infrastructure • Automating CI/CD • Securing produc
 
 <img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-
 ## 🚀 About Me
 
 DevOps Engineer with **4+ years of experience** building, automating, and operating **production-grade cloud platforms**.
