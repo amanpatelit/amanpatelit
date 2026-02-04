@@ -1,34 +1,42 @@
 <h1 align="center">Aman Patel</h1>
-<h3 align="center">Cloud • DevOps • DevSecOps Engineer</h3>
+<h3 align="center">☁️ Cloud • DevOps • DevSecOps Engineer</h3>
 
 <p align="center">
-Designing scalable cloud infrastructure • Automating CI/CD • Securing production systems
+Building scalable cloud platforms • Automating everything • Shipping faster & safer 🚀
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
-## About Me
+---
 
-DevOps Engineer with **4+ years of experience** building, automating, and operating **production-grade cloud platforms**.
+## 👋 About Me
 
-- ☁️ Architecting infrastructure on AWS & Kubernetes (EKS)
-- 🚀 Designing CI/CD pipelines and fully automated deployments
-- 🔐 Implementing DevSecOps and security best practices
-- 📈 Managing highly available systems for US-based clients
-- 🧠 Focused on Platform Engineering and cloud-native architectures
+DevOps & Cloud Engineer with **4+ years of hands-on production experience** designing, automating, and operating **highly available cloud-native systems**.
+
+I specialize in turning complex infrastructure into **fully automated, secure, and scalable platforms**.
+
+- ☁️ Architecting AWS infrastructure & Kubernetes (EKS)
+- 🚀 Designing end-to-end CI/CD pipelines
+- 🔐 Implementing DevSecOps & security-first deployments
+- 📈 Managing production workloads for US/Global clients
+- 🧠 Exploring Platform Engineering & Cloud-Native tooling
 
 📫 **amanpatel.itofficial@gmail.com**
 
+---
+
 ## 🌐 Portfolio & Writing
 
-- Website → https://amansdlc.com  
-- Blog → https://amanpatelofficial.substack.com/
+- 🌍 Website → https://amansdlc.com  
+- ✍️ Blog → https://amanpatelofficial.substack.com/
 
-## 🤝 Connect
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/amanpatelofficial">LinkedIn</a> •
@@ -36,26 +44,43 @@ DevOps Engineer with **4+ years of experience** building, automating, and operat
 <a href="https://www.youtube.com/c/@amanpatelletscodeanddeploy">YouTube</a>
 </p>
 
-## 🛠 Core Technologies
+---
 
-**AWS • Kubernetes (EKS) • Docker • Jenkins • Terraform • Helm • Linux • Git • Ansible • Bash • Python • DevSecOps • CloudWatch • Nginx**
+## 🛠 Tech Stack
 
+### Cloud & Containers
+AWS • Kubernetes (EKS) • Docker • Helm • Nginx
 
-## 📈 GitHub Activity
+### DevOps & Automation
+Jenkins • GitHub Actions • Terraform • Ansible • Bash • Python
+
+### DevSecOps & Observability
+CloudWatch • Security Scanning • CI/CD Hardening • Monitoring • Logging
+
+### Systems
+Linux • Networking • Infrastructure Design • Performance Optimization
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 ## 🏆 Professional Highlights
 
-- Designed and managed scalable cloud infrastructure on AWS
-- Deployed containerized microservices on Kubernetes (EKS)
-- Built multi-stage CI/CD pipelines using Jenkins and Docker
-- Integrated DevSecOps scanning and compliance checks into pipelines
-- Implemented autoscaling, load balancing, and observability solutions
-- Strong expertise in Linux systems, networking, and automation
+✅ Designed scalable AWS cloud architecture serving production traffic  
+✅ Managed Kubernetes clusters with microservices deployments  
+✅ Built multi-stage CI/CD pipelines with automated testing & scanning  
+✅ Implemented autoscaling, load balancing & zero-downtime releases  
+✅ Reduced manual ops effort using Infrastructure as Code  
+✅ Strong foundation in Linux, networking & reliability engineering  
+
 ---
+
 <h3 align="center">
-Automate everything • Secure everything • Scale without limits
+⚡ Automate Everything • Secure Everything • Scale Without Limits
 </h3>
