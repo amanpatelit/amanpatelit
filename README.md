@@ -1,82 +1,62 @@
 <h1 align="center">Aman Patel</h1>
-<h3 align="center">☁️ Cloud • DevOps • DevSecOps Engineer</h3>
+<h3 align="center">Cloud • DevOps • DevSecOps Engineer</h3>
 
 <p align="center">
-Designing scalable infrastructure • Automating CI/CD • Securing production systems
+Designing scalable cloud infrastructure • Automating CI/CD • Securing production systems
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img height="250" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
-</p>
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 
 ## 🚀 About Me
 
-DevOps Engineer with **4+ years of real-world production experience** building and operating **highly available cloud platforms**.
+DevOps Engineer with **4+ years of experience** building, automating, and operating **production-grade cloud platforms**.
 
-✔ Architecting AWS & Kubernetes (EKS) platforms  
-✔ Building CI/CD pipelines with Jenkins, Docker & GitHub Actions  
-✔ DevSecOps automation & security scanning  
-✔ Platform engineering & cloud-native systems  
-✔ Supporting US & global clients  
+- ☁️ Architecting infrastructure on AWS & Kubernetes (EKS)
+- 🚀 Designing CI/CD pipelines and fully automated deployments
+- 🔐 Implementing DevSecOps and security best practices
+- 📈 Managing highly available systems for US-based clients
+- 🧠 Focused on Platform Engineering and cloud-native architectures
 
-📫 **Email:** amanpatel.itofficial@gmail.com  
+📫 **amanpatel.itofficial@gmail.com**
 
-## 🌐 Connect With Me
+## 🌐 Portfolio & Writing
 
-<p align="center">
+- Website → https://amansdlc.com  
+- Blog → https://amanpatelofficial.substack.com/
 
-<a href="https://amansdlc.com">
-  <img src="https://img.shields.io/badge/🌍%20Website-amansdlc.com-black?style=for-the-badge"/>
-</a>
+## 🤝 Connect
 
-<a href="https://linkedin.com/in/amanpatelofficial">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/amanpatel.it">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://amanpatelofficial.substack.com/">
-  <img src="https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge"/>
-</a>
-
-<a href="mailto:amanpatel.itofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="left">
+<a href="https://linkedin.com/in/amanpatelofficial">LinkedIn</a> •
+<a href="https://instagram.com/amanpatel.it">Instagram</a> •
+<a href="https://www.youtube.com/c/@amanpatelletscodeanddeploy">YouTube</a>
 </p>
 
-## 🛠 Tech Stack
+## 🛠 Core Technologies
+
+**AWS • Kubernetes (EKS) • Docker • Jenkins • Terraform • Helm • Linux • Git • Ansible • Bash • Python • DevSecOps • CloudWatch • Nginx**
+
+
+## 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,linux,terraform,ansible,git,github,nginx,python,bash,gcp"/>
-
-</p>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🏆 Professional Highlights
 
-✨ Designed scalable AWS infrastructure for production workloads  
-✨ Managed Kubernetes (EKS) clusters with Helm deployments  
-✨ Built multi-stage CI/CD pipelines  
-✨ Integrated DevSecOps scanning & compliance  
-✨ Implemented autoscaling, monitoring & observability  
-✨ Strong Linux + networking + automation expertise  
-
+- Designed and managed scalable cloud infrastructure on AWS
+- Deployed containerized microservices on Kubernetes (EKS)
+- Built multi-stage CI/CD pipelines using Jenkins and Docker
+- Integrated DevSecOps scanning and compliance checks into pipelines
+- Implemented autoscaling, load balancing, and observability solutions
+- Strong expertise in Linux systems, networking, and automation
+---
 <h3 align="center">
-⚡ Automate everything • Secure everything • Scale without limits
+Automate everything • Secure everything • Scale without limits
 </h3>
