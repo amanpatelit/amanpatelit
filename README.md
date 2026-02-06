@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatelit" alt="amanpatelit" /></a> </p>
+
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 - 🔭 I’m currently working on **US Projects**
@@ -13,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Industry Professionals**
 
-- 👨‍💻 All of my projects are available at [aiwithaman.com](aiwithaman.com)
+- 👨‍💻 All of my projects are available at [https://aiwithaman.com/](https://aiwithaman.com/)
 
 - 📝 I regularly write articles on [https://amanpatelofficial.substack.com/](https://amanpatelofficial.substack.com/)
 
