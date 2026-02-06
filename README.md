@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Industry Professionals**
 
-- 👨‍💻 All of my projects are available at [amansdlc.com](amansdlc.com)
+- 👨‍💻 All of my projects are available at [aiwithaman.com](aiwithaman.com)
 
 - 📝 I regularly write articles on [https://amanpatelofficial.substack.com/](https://amanpatelofficial.substack.com/)
 
