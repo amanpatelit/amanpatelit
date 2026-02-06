@@ -5,8 +5,6 @@
 
 <img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatelit" alt="amanpatelit" /></a> </p>
-
 - 🔭 I’m currently working on **US Projects**
 
 - 🌱 I’m currently learning **MlOps & MCP Servers**
