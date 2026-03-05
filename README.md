@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aiwithaman.com/](https://aiwithaman.com/)
 
-- 📝 I regularly write articles on [https://https://medium.com/@aiwithaman/](https://https://medium.com/@aiwithaman)
+- 📝 I regularly write articles on [https://medium.com/@aiwithaman/](https://medium.com/@aiwithaman)
 
 - 💬 Ask me about **Cloud & DevSecOps**
 
