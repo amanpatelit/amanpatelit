@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aiwithaman.com/](https://aiwithaman.com/)
 
-- 📝 I regularly write articles on [https://amanpatelofficial.substack.com/](https://amanpatelofficial.substack.com/)
+- 📝 I regularly write articles on [https://https://medium.com/@aiwithaman/](https://https://medium.com/@aiwithaman)
 
 - 💬 Ask me about **Cloud & DevSecOps**
 
