@@ -1,9 +1,11 @@
-<h1 align="center">Aman Patel</h1>
+<h1 align="center">Hi 👋, I'm Aman Patel</h1>
 
-<h3 align="center">Cloud & DevOps Engineer</h3>
+<h3 align="center">
+🚀 Cloud & DevOps Engineer | AWS • Kubernetes • DevSecOps
+</h3>
 
 <p align="center">
-AWS • Kubernetes • DevSecOps • Infrastructure Automation
+Passionate about building scalable, secure & automated cloud infrastructure
 </p>
 
 <p align="center">
@@ -12,75 +14,95 @@ AWS • Kubernetes • DevSecOps • Infrastructure Automation
 
 ---
 
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ## 👨‍💻 About Me
 
-Cloud & DevOps Engineer with hands-on experience in designing, automating, and managing cloud-native infrastructure. Skilled in AWS, Kubernetes, CI/CD, Infrastructure as Code, Linux, and DevSecOps practices with a strong focus on scalability, automation, and security.
-
-- ☁️ Working with AWS & Kubernetes
-- ⚙️ Building CI/CD & Automation Workflows
-- 🔐 Focused on DevSecOps & Cloud Security
+- ☁️ Cloud & DevOps Engineer with experience in AWS & Kubernetes
+- ⚙️ Building scalable CI/CD pipelines & cloud automation
+- 🔐 Focused on DevSecOps, Security & Infrastructure Automation
 - 🚀 Passionate about Cloud Native Technologies
-- 🌱 Currently exploring MLOps & AI Infrastructure
+- 🌱 Currently learning **MLOps & AI Infrastructure**
+- 💬 Ask me about **AWS, Kubernetes, Linux, Terraform & DevOps**
 
 ---
 
-## ☁️ Tech Stack
+# 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,nginx,git,github,python,bash,redis,mongodb,mysql,postgres,grafana,prometheus,kafka" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,nginx" />
+</p>
+
+### 💻 Programming & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,nodejs,java,git,github" />
+</p>
+
+### 📊 Monitoring & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,redis,mongodb,mysql,postgres,kafka,elasticsearch" />
 </p>
 
 ---
 
-## 🚀 Core Expertise
+# 🚀 Core Expertise
 
-- Cloud Infrastructure Engineering
-- Kubernetes & Container Orchestration
-- CI/CD Pipeline Automation
-- Infrastructure as Code (Terraform)
-- DevSecOps & Security Automation
-- Monitoring & Observability
-- Linux System Administration
+✅ Cloud Infrastructure  
+✅ Kubernetes & Container Orchestration  
+✅ CI/CD Automation  
+✅ Infrastructure as Code (Terraform)  
+✅ DevSecOps & Security  
+✅ Monitoring & Observability  
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://linkedin.com/in/amanpatelit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://github.com/amanpatelit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://medium.com/@aiwithaman" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@amanpateltalk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 amanpatel.itofficial@gmail.com  
-🌐 https://aiwithaman.com
+📧 **amanpatel.itofficial@gmail.com**  
+🌐 **https://aiwithaman.com**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+</p>
