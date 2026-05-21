@@ -1,11 +1,9 @@
 <h1 align="center">Aman Patel</h1>
 
-<h3 align="center">
-Cloud & DevOps Engineer
-</h3>
+<h3 align="center">Cloud & DevOps Engineer</h3>
 
 <p align="center">
-AWS • Kubernetes • DevSecOps • Automation
+AWS • Kubernetes • DevSecOps • Infrastructure Automation
 </p>
 
 <p align="center">
@@ -16,29 +14,33 @@ AWS • Kubernetes • DevSecOps • Automation
 
 ## 👨‍💻 About Me
 
-- DevOps & Cloud Engineer with experience in AWS and Kubernetes
-- Skilled in CI/CD, Infrastructure Automation, Linux, and Cloud Security
-- Passionate about scalable cloud infrastructure and DevSecOps
-- Currently learning MLOps and AI Infrastructure
+Cloud & DevOps Engineer with hands-on experience in designing, automating, and managing cloud-native infrastructure. Skilled in AWS, Kubernetes, CI/CD, Infrastructure as Code, Linux, and DevSecOps practices with a strong focus on scalability, automation, and security.
+
+- ☁️ Working with AWS & Kubernetes
+- ⚙️ Building CI/CD & Automation Workflows
+- 🔐 Focused on DevSecOps & Cloud Security
+- 🚀 Passionate about Cloud Native Technologies
+- 🌱 Currently exploring MLOps & AI Infrastructure
 
 ---
 
 ## ☁️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,linux,nginx,git,github,python,bash,redis,mongodb,mysql,postgres,grafana,prometheus,kafka" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,nginx,git,github,python,bash,redis,mongodb,mysql,postgres,grafana,prometheus,kafka" />
 </p>
 
 ---
 
-## 🚀 Core Skills
+## 🚀 Core Expertise
 
-- Cloud Infrastructure
-- Kubernetes Administration
-- CI/CD Automation
-- Infrastructure as Code
-- DevSecOps & Security
+- Cloud Infrastructure Engineering
+- Kubernetes & Container Orchestration
+- CI/CD Pipeline Automation
+- Infrastructure as Code (Terraform)
+- DevSecOps & Security Automation
 - Monitoring & Observability
+- Linux System Administration
 
 ---
 
@@ -46,6 +48,10 @@ AWS • Kubernetes • DevSecOps • Automation
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -66,12 +72,15 @@ AWS • Kubernetes • DevSecOps • Automation
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
+<a href="https://www.youtube.com/@amanpateltalk" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 ## 📫 Contact
 
-📧 amanpatel.itofficial@gmail.com
-
+📧 amanpatel.itofficial@gmail.com  
 🌐 https://aiwithaman.com
