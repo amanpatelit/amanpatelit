@@ -1,7 +1,7 @@
 <h1 align="center">Aman Patel</h1>
 
 <h3 align="center">
-Cloud • DevOps • DevSecOps Engineer
+Sr. Cloud DevSecOps Engineer
 </h3>
 
 <p align="center">
