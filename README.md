@@ -29,7 +29,7 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### ☁️ Cloud & Infrastructure
 
@@ -57,7 +57,7 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
 
 ---
 
-# 🚀 Core Expertise
+# Core Expertise
 
 ✔️ AWS Cloud Infrastructure  
 ✔️ Kubernetes & Container Orchestration  
@@ -69,7 +69,7 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true"/>
