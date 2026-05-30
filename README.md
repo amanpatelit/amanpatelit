@@ -18,7 +18,7 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
 
 <img align="right" alt="DevOps" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 🚀 About Me
+## About Me
 
 - ☁️ DevOps Engineer with expertise in AWS Cloud & Kubernetes
 - ⚙️ Experienced in CI/CD, Infrastructure Automation & Cloud Native Technologies
