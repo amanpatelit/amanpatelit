@@ -1,116 +1,48 @@
-<h1 align="center">Aman Patel</h1>
+# Hi, I'm Aman Patel 👋
 
-<h3 align="center">
-Sr. Cloud DevSecOps Engineer
-</h3>
+### Senior Cloud & DevSecOps Engineer | AWS | Kubernetes | Terraform | Platform Engineering
 
-<p align="center">
-Building scalable cloud infrastructure, automating deployments, and securing modern applications.
-</p>
-
-<p align="center">
-  <a href="https://github.com/amanpatelit">
-    <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+Building secure, scalable, and highly available cloud infrastructure with automation, reliability, and security at the core.
 
 ---
 
-<img align="right" alt="DevOps" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🚀 Professional Summary
 
-## About Me
+Experienced Cloud & DevSecOps Engineer with 4+ years of expertise in designing, automating, and managing production-grade cloud infrastructure across AWS and Kubernetes environments.
 
--  DevOps Engineer with expertise in AWS Cloud & Kubernetes
--  Experienced in CI/CD, Infrastructure Automation & Cloud Native Technologies
--  Focused on DevSecOps, Security Best Practices & Infrastructure Reliability
--  Managing scalable production environments on AWS & Kubernetes
--  Currently exploring **MLOps, AI Infrastructure & OpenShift**
--  Ask me about **AWS, Kubernetes, Terraform, Linux & DevOps**
+Specialized in Infrastructure as Code (Terraform), CI/CD automation, container orchestration, cloud security, observability, and platform engineering.
 
 ---
 
-# Tech Stack
+## 💼 Core Competencies
 
-###  Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,nginx" />
-</p>
-
-###  CI/CD & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,bash" />
-</p>
-
-###  Programming & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java" />
-</p>
-
-###  Monitoring & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,redis,mongodb,mysql,postgres,kafka,elasticsearch" />
-</p>
+- Cloud Architecture & Infrastructure Engineering
+- Amazon Web Services (AWS)
+- Kubernetes (EKS, Self-Managed Clusters)
+- Infrastructure as Code (Terraform)
+- CI/CD Automation & Release Engineering
+- DevSecOps & Security Automation
+- Docker & Containerization
+- Linux Systems Administration
+- Monitoring, Logging & Observability
+- Platform Engineering
+- Site Reliability Engineering (SRE)
 
 ---
 
-# Core Expertise
+## 🌱 Currently Exploring
 
-✔️ AWS Cloud Infrastructure  
-✔️ Kubernetes & Container Orchestration  
-✔️ CI/CD Pipeline Automation  
-✔️ Infrastructure as Code (Terraform)  
-✔️ DevSecOps & Security Automation  
-✔️ Monitoring, Logging & Observability  
-✔️ Linux Server Administration  
+- MLOps & AI Infrastructure
+- OpenShift Platform Engineering
+- Cloud Security Engineering
+- GitOps & Kubernetes Security
 
 ---
 
-# GitHub Analytics
+## 📫 Contact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight&hide_border=true"/>
+📧 amanpatel.itofficial@gmail.com
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight&hide_border=true"/>
-</p>
+🌐 https://aiwithaman.com
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/amanpatelit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/amanpatelit" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://medium.com/@aiwithaman" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@amanpateltalk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📫 Contact
-
-📧 **amanpatel.itofficial@gmail.com**  
-🌐 **https://aiwithaman.com**
-
----
-
+### "Automating infrastructure, securing platforms, and enabling reliable cloud-native systems at scale."
