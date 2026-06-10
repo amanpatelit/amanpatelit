@@ -3,7 +3,9 @@
 
 <p align="left"> <https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="amanpatelit" /> </p
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="700" alt="Coding GIF" />
+</p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
