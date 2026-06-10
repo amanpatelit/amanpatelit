@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate Sr. Cloud DevOps Engineer from India</h3>
 
-<p align="left"> <https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="amanpatelit" /> </p
+<p align="left"> <https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="amanpatelit" /> </p>
 
-<img align="right" height="260" width="420" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
+<p <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
