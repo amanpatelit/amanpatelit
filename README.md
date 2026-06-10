@@ -4,12 +4,11 @@
 <p align="left"> <https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="amanpatelit" /> </p
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="200" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="400" alt="Coding GIF" />
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanpatelit" alt="amanpatelit" /></a> </p>
 
 - 🔭 I’m currently working on **wowmomo project**
 
