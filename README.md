@@ -20,36 +20,36 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
 
 ## About Me
 
-- ☁️ DevOps Engineer with expertise in AWS Cloud & Kubernetes
-- ⚙️ Experienced in CI/CD, Infrastructure Automation & Cloud Native Technologies
-- 🔐 Focused on DevSecOps, Security Best Practices & Infrastructure Reliability
-- 🚀 Managing scalable production environments on AWS & Kubernetes
-- 🌱 Currently exploring **MLOps, AI Infrastructure & OpenShift**
-- 💬 Ask me about **AWS, Kubernetes, Terraform, Linux & DevOps**
+-  DevOps Engineer with expertise in AWS Cloud & Kubernetes
+-  Experienced in CI/CD, Infrastructure Automation & Cloud Native Technologies
+-  Focused on DevSecOps, Security Best Practices & Infrastructure Reliability
+-  Managing scalable production environments on AWS & Kubernetes
+-  Currently exploring **MLOps, AI Infrastructure & OpenShift**
+-  Ask me about **AWS, Kubernetes, Terraform, Linux & DevOps**
 
 ---
 
 # Tech Stack
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,nginx" />
 </p>
 
-### ⚙️ CI/CD & Automation
+###  CI/CD & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github,bash" />
 </p>
 
-### 💻 Programming & Scripting
+###  Programming & Scripting
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,nodejs,java" />
 </p>
 
-### 📊 Monitoring & Databases
+###  Monitoring & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,redis,mongodb,mysql,postgres,kafka,elasticsearch" />
