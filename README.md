@@ -34,59 +34,47 @@ Building scalable cloud infrastructure, automating deployments, and securing mod
   <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/amanpatelit" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanpatelit" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
 <a href="https://medium.com/@aiwithaman" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aiwithaman" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 
 <a href="https://www.youtube.com/c/amanpateltalks" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanpateltalks" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
-
----
 
 ## ⚙️ Tech Stack
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux,bash,ansible,terraform,python,golang,git,github,nginx,redis,mongodb,mysql,postgresql,prometheus,grafana" />
-
 </p>
-
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=tokyonight" />
 </p>
-
----
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
 ## ☁️ DevOps Philosophy
 
-> "Automate everything that can be automated, monitor everything that can fail, and secure everything by default."
+> Automate everything that can be automated, monitor everything that can fail, and secure everything by default.
