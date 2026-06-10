@@ -3,7 +3,7 @@
 
 <p align="left"> <https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="amanpatelit" /> </p
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="700" alt="Coding GIF" />
 </p>
   
