@@ -7,6 +7,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatelit" /> </p>
 
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/e790091f-7aa2-4c10-97bd-1ccdd5e9b389" />
+
+
 
 - 🔭 I’m currently working on **wowmomo project**
 
