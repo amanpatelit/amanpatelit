@@ -22,7 +22,7 @@ AWS • Kubernetes • DevSecOps • Platform Engineering • AI & MCP
 
 <img align="right" width="350" alt="Coding" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Currently building and scaling cloud infrastructure for **Wow! Momo**
 - 🌱 Exploring **AI, MCP, Platform Engineering & DevSecOps**
@@ -50,7 +50,7 @@ AWS • Kubernetes • DevSecOps • Platform Engineering • AI & MCP
 </a>
 </p>
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,ansible,linux,bash,python,golang,git,github,nginx,prometheus,grafana,mysql,postgresql,mongodb,redis" />
@@ -87,11 +87,6 @@ AWS • Kubernetes • DevSecOps • Platform Engineering • AI & MCP
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact" />
 </p>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Reach Me
 
