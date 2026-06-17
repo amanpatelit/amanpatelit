@@ -98,5 +98,5 @@ AWS • Kubernetes • DevSecOps • Platform Engineering • AI & MCP
 ---
 
 <p align="center">
-<b>🚀 Automate Everything • Secure by Design • Scale Without Limits 🚀</b>
+<b>Automate Everything • Secure by Design • Scale Without Limits </b>
 </p>
