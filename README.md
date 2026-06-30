@@ -32,7 +32,7 @@ I enjoy solving production challenges, improving engineering efficiency, and bui
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 - ☁️ Design and build scalable AWS cloud infrastructure
 - ☸️ Build and manage production Kubernetes (EKS) platforms
@@ -47,7 +47,7 @@ I enjoy solving production challenges, improving engineering efficiency, and bui
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud
+###  Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
