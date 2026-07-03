@@ -1,110 +1,85 @@
 <h1 align="center">Hi, I'm Aman Patel 👋</h1>
 
 <h3 align="center">
-Senior Cloud DevSecOps Engineer | AWS | Kubernetes | Platform Engineering
+Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
 </h3>
 
 <p align="center">
-Designing secure, scalable and reliable cloud platforms with automation at the core.
+Building secure, scalable and cloud-native platforms through automation, DevSecOps and modern platform engineering.
 </p>
 
 <p align="center">
   <a href="https://aiwithaman.com">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-aiwithaman.com-000000?style=for-the-badge" />
   </a>
-
   <a href="https://linkedin.com/in/amanpatelit">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/amanpatelit">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://youtube.com/c/amanpateltalks">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-
   <a href="mailto:amanpatel.itofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanpatelit&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/amanpatelit?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/amanpatelit?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** building secure, scalable, and cloud-native platforms.
+I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** designing, automating and securing cloud-native infrastructure.
 
-Currently working at **Wow! Momo**, where I focus on:
+I specialize in building highly available Kubernetes platforms on AWS while enabling engineering teams through Infrastructure as Code, GitOps and CI/CD automation.
 
-- ☁️ AWS Cloud Infrastructure
-- ☸️ Kubernetes (Amazon EKS)
+### My expertise includes
+
+- ☁️ AWS Cloud Architecture
+- ☸️ Amazon EKS & Kubernetes
 - 🏗️ Platform Engineering
 - 🔐 DevSecOps & Cloud Security
-- ⚙️ CI/CD Automation
 - 🚀 GitOps with ArgoCD
-- 📦 Infrastructure as Code (Terraform)
-- 📊 Observability (Prometheus, Grafana)
+- ⚙️ CI/CD (Jenkins & GitHub Actions)
+- 📦 Terraform & Infrastructure as Code
+- 📊 Monitoring & Observability
 - 🤖 AI Infrastructure & MCP
-
-I enjoy solving production challenges, automating infrastructure, and building platforms that empower engineering teams.
-
----
-
-# 🚀 What I Do
-
-- ☁️ Design scalable AWS cloud infrastructure
-- ☸️ Build & manage production Kubernetes platforms
-- 🔐 Implement DevSecOps best practices
-- 🏗️ Automate infrastructure using Terraform
-- ⚙️ Build CI/CD pipelines with Jenkins & GitHub Actions
-- 🚀 Implement GitOps using ArgoCD
-- 📊 Improve observability with Prometheus & Grafana
-- 🤖 Explore AI Infrastructure & Model Context Protocol (MCP)
 
 ---
 
 # 🛠️ Tech Stack
 
-## ☁️ Cloud
+### ☁️ Cloud
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
----
-
-## ☸️ Containers & Platform
+### ☸️ Containers & Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" />
 </p>
 
----
-
-## ⚙️ DevOps & CI/CD
+### ⚙️ DevOps
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,jenkins,bash,linux" />
 </p>
 
----
-
-## 💻 Programming
+### 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,golang" />
 </p>
 
----
-
-## 📈 Monitoring & Databases
+### 📊 Monitoring & Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis" />
@@ -112,7 +87,7 @@ I enjoy solving production challenges, automating infrastructure, and building p
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Currently Focused On
 
 - Platform Engineering
 - AI Infrastructure
@@ -123,7 +98,7 @@ I enjoy solving production challenges, automating infrastructure, and building p
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -161,49 +136,32 @@ I enjoy solving production challenges, automating infrastructure, and building p
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://aiwithaman.com">
-<img src="https://img.shields.io/badge/WEBSITE-aiwithaman.com-222222?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/amanpatelit">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/amanpatelit">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/c/amanpateltalks">
-<img src="https://img.shields.io/badge/YOUTUBE-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-<a href="mailto:amanpatel.itofficial@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📬 Contact
-
-- 🌐 **Portfolio:** https://aiwithaman.com
-- 💼 **LinkedIn:** https://linkedin.com/in/amanpatelit
-- 🐙 **GitHub:** https://github.com/amanpatelit
-- 📧 **Email:** amanpatel.itofficial@gmail.com
-
----
-
 <p align="center">
-<h3 align="center">💡 "Building Secure Platforms • Automating Everything • Scaling Without Limits"</h3>
-</p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=amanpatelit&style=for-the-badge&color=brightgreen" />
-<img src="https://img.shields.io/github/followers/amanpatelit?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/amanpatelit?style=for-the-badge" />
+### 💡 *Building Secure Platforms • Automating Infrastructure • Scaling Cloud-Native Systems*
+
 </p>
