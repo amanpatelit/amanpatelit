@@ -127,26 +127,6 @@ My expertise lies in building highly available Kubernetes platforms, implementin
 
 ---
 
-# 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://aiwithaman.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/amanpatelit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://youtube.com/c/amanpateltalks">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-
-  <a href="mailto:amanpatel.itofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+⭐ If you find my work helpful, consider <b>starring my repositories</b> and <b>following me</b> for more content on Cloud, Kubernetes, DevSecOps, Platform Engineering, and AI Infrastructure.
 </p>
