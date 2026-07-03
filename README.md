@@ -35,14 +35,14 @@ Building secure, scalable cloud-native platforms through automation, DevSecOps, 
 
 # 🚀 About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
+I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **5+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
 
 I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineering, Infrastructure as Code, GitOps, and AI Infrastructure**, helping teams build secure, scalable, and production-ready platforms.
 
 - 🔭 Currently building cloud-native platforms, AI Infrastructure, and scalable DevSecOps solutions
 - 🌱 Continuously learning Platform Engineering, AI Infrastructure, Model Context Protocol (MCP), and Cloud Security
 - 👯 Open to collaborating on Open Source, Kubernetes, Cloud, and DevOps projects
-- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, Platform Engineering, and Cloud Security
+- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, Platform Engineering, Cloud Security, and AI Infrastructure
 - ✍️ I regularly share technical content through YouTube, LinkedIn, and my personal blog
 - ⚡ Fun fact: I enjoy automating everything that can be automated.
 
@@ -50,34 +50,8 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 # 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
-</p>
-
-### ☸️ Containers & Platform Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" />
-</p>
-
-### ⚙️ DevOps & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,linux" />
-</p>
-
-### 💻 Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,golang" />
-</p>
-
-### 📊 Monitoring & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,git,github,githubactions,jenkins,bash,linux,python,go,prometheus,grafana,mysql,postgresql,mongodb,redis,nginx,ubuntu,vscode&perline=12" />
 </p>
 
 ---
@@ -127,5 +101,5 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 </p>
 
 <p align="center">
-  ⭐ If you find my work helpful, consider <strong>starring my repositories</strong> and <strong>following me</strong> for more content on AWS, Kubernetes, DevSecOps, Platform Engineering, and AI Infrastructure.
+  ⭐ If you find my work helpful, consider <strong>starring my repositories</strong> and <strong>following me</strong> for more content on AWS, Kubernetes, DevSecOps, Platform Engineering, Cloud Security, and AI Infrastructure.
 </p>
