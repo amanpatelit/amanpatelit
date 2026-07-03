@@ -5,7 +5,7 @@ Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
 </h3>
 
 <p align="center">
-Building secure, scalable and cloud-native platforms through automation, DevSecOps and modern platform engineering.
+Building secure, scalable cloud-native platforms through automation, DevSecOps, and modern Platform Engineering.
 </p>
 
 <p align="center">
@@ -33,23 +33,18 @@ Building secure, scalable and cloud-native platforms through automation, DevSecO
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
+I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
 
-My expertise lies in building highly available Kubernetes platforms, implementing DevSecOps practices, automating infrastructure with Infrastructure as Code, and enabling engineering teams through scalable platform solutions.
+I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineering, Infrastructure as Code, GitOps, and AI Infrastructure**, helping teams build secure, scalable, and production-ready platforms.
 
-## Core Expertise
-
-- ☁️ AWS Cloud Architecture
-- ☸️ Kubernetes (Amazon EKS)
-- 🏗️ Platform Engineering
-- 🔐 DevSecOps & Cloud Security
-- 🚀 GitOps (ArgoCD)
-- ⚙️ CI/CD Automation
-- 📦 Infrastructure as Code (Terraform)
-- 📊 Monitoring & Observability
-- 🤖 AI Infrastructure & Model Context Protocol (MCP)
+- 🔭 Currently building cloud-native platforms, AI Infrastructure, and scalable DevSecOps solutions
+- 🌱 Continuously learning Platform Engineering, AI Infrastructure, Model Context Protocol (MCP), and Cloud Security
+- 👯 Open to collaborating on Open Source, Kubernetes, Cloud, and DevOps projects
+- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, Platform Engineering, and Cloud Security
+- ✍️ I regularly share technical content through YouTube, LinkedIn, and my personal blog
+- ⚡ Fun fact: I enjoy automating everything that can be automated.
 
 ---
 
@@ -58,43 +53,43 @@ My expertise lies in building highly available Kubernetes platforms, implementin
 ### ☁️ Cloud Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
-### ☸️ Containers & Infrastructure
+### ☸️ Containers & Platform Engineering
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible" />
 </p>
 
 ### ⚙️ DevOps & Automation
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash,linux" />
 </p>
 
 ### 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,golang" />
+  <img src="https://skillicons.dev/icons?i=python,golang" />
 </p>
 
 ### 📊 Monitoring & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis" />
 </p>
 
 ---
 
 # 🌱 Currently Exploring
 
-- Platform Engineering
-- AI Infrastructure
-- Model Context Protocol (MCP)
-- Kubernetes at Scale
-- Cloud Security
-- Developer Experience (DevEx)
+- 🏗️ Platform Engineering
+- 🤖 AI Infrastructure
+- 🔗 Model Context Protocol (MCP)
+- ☸️ Kubernetes at Scale
+- 🔐 Cloud Security
+- 🚀 Developer Experience (DevEx)
 
 ---
 
@@ -128,5 +123,9 @@ My expertise lies in building highly available Kubernetes platforms, implementin
 ---
 
 <p align="center">
-⭐ If you find my work helpful, consider <b>starring my repositories</b> and <b>following me</b> for more content on Cloud, Kubernetes, DevSecOps, Platform Engineering, and AI Infrastructure.
+  💡 <strong>"Building secure, scalable cloud-native platforms through automation, DevSecOps, and Platform Engineering."</strong>
+</p>
+
+<p align="center">
+  ⭐ If you find my work helpful, consider <strong>starring my repositories</strong> and <strong>following me</strong> for more content on AWS, Kubernetes, DevSecOps, Platform Engineering, and AI Infrastructure.
 </p>
