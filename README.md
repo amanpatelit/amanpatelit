@@ -1,6 +1,8 @@
 # Hi, I'm Aman Patel 👋
 
-<h3 align="center">Senior Cloud DevSecOps Engineer | AWS | Kubernetes | Platform Engineering</h3>
+<h3 align="center">
+Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
+</h3>
 
 <p align="center">
 Designing secure, scalable and reliable cloud platforms with automation at the core.
@@ -8,78 +10,113 @@ Designing secure, scalable and reliable cloud platforms with automation at the c
 
 <p align="center">
   <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/amanpatelit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://aiwithaman.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** designing, automating, and securing cloud-native infrastructure.
+I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** building secure, scalable cloud platforms and production Kubernetes infrastructure.
 
-Currently, I build and operate production platforms at **Wow! Momo**, focusing on Kubernetes, Infrastructure as Code, CI/CD, GitOps, observability, cloud security, and developer platforms.
+Currently, I work at **Wow! Momo**, where I focus on:
 
-I enjoy solving production challenges, improving engineering efficiency, and building systems that scale reliably.
+- Designing highly available AWS infrastructure
+- Managing production Kubernetes (EKS) clusters
+- Platform Engineering
+- Infrastructure as Code (Terraform)
+- CI/CD & GitOps
+- Cloud Security & DevSecOps
+- Observability & Monitoring
+- Developer Experience (DevEx)
+
+I enjoy solving production challenges, automating repetitive work, and building platforms that enable engineering teams to move faster.
 
 ---
 
-## What I Do
+# 🚀 What I Do
 
-- ☁️ Design and build scalable AWS cloud infrastructure
-- ☸️ Build and manage production Kubernetes (EKS) platforms
-- 🔐 Implement DevSecOps and cloud security best practices
-- 🏗️ Automate infrastructure using Terraform & IaC
+- ☁️ Design scalable AWS cloud infrastructure
+- ☸️ Build and manage production Kubernetes platforms
+- 🔐 Implement DevSecOps & Cloud Security best practices
+- 🏗️ Automate infrastructure using Terraform
 - ⚙️ Build CI/CD pipelines with Jenkins & GitHub Actions
-- 🚀 Implement GitOps workflows using ArgoCD
-- 📊 Improve observability with Prometheus & Grafana
+- 🚀 Implement GitOps using ArgoCD
+- 📊 Build Observability platforms using Prometheus & Grafana
 - 🤖 Explore AI Infrastructure & Model Context Protocol (MCP)
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Statistics
 
-###  Cloud
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
-### ☸️ Containers & Platform
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=transparent&hide_border=true"/>
 
-### ⚙️ DevOps & CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,github,git,bash,linux" />
-</p>
-
-### 💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,golang" />
-</p>
-
-### 📈 Monitoring & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis" />
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+# 🛠️ Tech Stack
+
+## ☁️ Cloud Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+</p>
+
+---
+
+## ☸️ Containers & Platform Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible"/>
+</p>
+
+---
+
+## ⚙️ DevOps & CI/CD
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,bash,linux"/>
+</p>
+
+---
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,golang"/>
+</p>
+
+---
+
+## 📈 Monitoring & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgresql,mongodb,redis"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
 
 - Platform Engineering
 - AI Infrastructure
@@ -90,75 +127,64 @@ I enjoy solving production challenges, improving engineering efficiency, and bui
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"
-  />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&row=1&column=6"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=transparent&hide_border=true"
-  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&row=1&column=6"
-  />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🤝 Connect With Me
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact"
-  />
+
+<a href="https://linkedin.com/in/amanpatelit">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/amanpatelit">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://youtube.com/c/amanpateltalks">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="48"/>
+</a>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 📬 Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+🌐 **Portfolio**  
+https://aiwithaman.com
 
-  <a href="https://github.com/amanpatelit">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+💼 **LinkedIn**  
+https://linkedin.com/in/amanpatelit
 
-  <a href="https://youtube.com/c/amanpateltalks">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="48"/>
-  </a>
-</p>
+🐙 **GitHub**  
+https://github.com/amanpatelit
 
----
-
-## 📬 Contact
-
-- 🌐 **Portfolio:** https://aiwithaman.com
-- 💼 **LinkedIn:** https://linkedin.com/in/amanpatelit
-- 🐙 **GitHub:** https://github.com/amanpatelit
-- 📧 **Email:** amanpatel.itofficial@gmail.com
+📧 **Email**  
+amanpatel.itofficial@gmail.com
 
 ---
 
 <p align="center">
-  <b>Building Secure Platforms • Automating Everything • Scaling Without Limits</b>
+
+### 💡 Building Secure Platforms • Automating Everything • Scaling Without Limits
+
 </p>
