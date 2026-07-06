@@ -56,7 +56,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 - 🏗️ Platform Engineering
 - 🤖 AI Infrastructure
@@ -80,7 +80,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-# 🏆 GitHub Achievements
+#  GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&row=1&column=6"/>
@@ -88,7 +88,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact"/>
