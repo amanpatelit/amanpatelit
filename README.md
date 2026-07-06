@@ -67,7 +67,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
