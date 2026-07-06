@@ -33,7 +33,7 @@ Building secure, scalable cloud-native platforms through automation, DevSecOps, 
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **5+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
 
@@ -48,7 +48,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,git,github,githubactions,jenkins,bash,linux,python,go,prometheus,grafana,mysql,postgresql,mongodb,redis,nginx,ubuntu,vscode&perline=12" />
