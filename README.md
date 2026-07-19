@@ -35,7 +35,7 @@ Building secure, scalable cloud-native platforms through automation, DevSecOps, 
 
 # About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **5+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
+I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
 
 I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineering, Infrastructure as Code, GitOps, and AI Infrastructure**, helping teams build secure, scalable, and production-ready platforms.
 
