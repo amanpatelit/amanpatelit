@@ -1,104 +1,94 @@
-<h1 align="center">Hi, I'm Aman Patel 👋</h1>
+```markdown
+<h1 align="center">Hi 👋, I'm Aman Patel</h1>
+
+<h3 align="center">
+Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
+</h3>
 
 <p align="center">
-Senior Cloud DevSecOps Engineer | AWS | Kubernetes | Platform Engineering
+Building secure, scalable, and cloud-native platforms through automation, DevSecOps, and modern Platform Engineering.
 </p>
 
 <p align="center">
-Building secure, scalable, and automated cloud-native platforms.
+  <a href="https://aiwithaman.com"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amanpatelit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/amanpatelit"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://youtube.com/c/amanpateltalks"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://aiwithaman.com">Portfolio</a> •
-  <a href="https://linkedin.com/in/amanpatelit">LinkedIn</a> •
-  <a href="https://github.com/amanpatelit">GitHub</a> •
-  <a href="https://youtube.com/c/amanpateltalks">YouTube</a> •
-  <a href="mailto:amanpatel.itofficial@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&style=flat-square&color=0e75b6"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** from India with **4+ years of experience** designing, automating, and securing cloud infrastructure on AWS.
+I'm a **Senior Cloud DevSecOps Engineer** from 🇮🇳 India with **4+ years of experience** building secure, scalable, and production-ready cloud platforms.
 
-My expertise includes:
+I enjoy designing modern infrastructure, automating operations, and enabling developers with reliable cloud-native platforms.
 
-- ☁️ Cloud Architecture (AWS)
-- ☸️ Kubernetes & Container Platforms
-- 🔐 DevSecOps & Cloud Security
+- ☁️ Designing scalable **AWS Cloud Architectures**
+- ☸️ Building production-ready **Kubernetes Platforms**
+- 🔐 Implementing **DevSecOps & Cloud Security**
+- 🏗️ Developing **Platform Engineering** solutions
+- 📦 Managing infrastructure using **Terraform & IaC**
+- 🚀 Automating deployments with **CI/CD & GitOps**
+- 🤖 Exploring **AI Infrastructure & MCP**
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,bash,python,go,git,github,githubactions,jenkins,prometheus,grafana,mysql,postgresql,mongodb,redis,vscode&perline=11"/>
+
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
 - 🏗️ Platform Engineering
-- 📦 Infrastructure as Code (Terraform)
-- 🚀 CI/CD & GitOps
 - 🤖 AI Infrastructure
-
-I'm passionate about building reliable platforms, improving developer experience, and automating everything possible.
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud**
-- AWS, Azure, GCP
-
-**Containers & Platform**
-- Kubernetes, Docker
-
-**Infrastructure**
-- Terraform, Ansible
-
-**CI/CD**
-- GitHub Actions, Jenkins
-
-**Monitoring**
-- Prometheus, Grafana
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, Redis
-
-**Programming & Scripting**
-- Python, Go, Bash
-
-**Operating Systems**
-- Linux, Ubuntu
+- 🔗 Model Context Protocol (MCP)
+- ☸️ Kubernetes at Scale
+- 🔐 Cloud Security
+- 🚀 Developer Experience (DevEx)
 
 ---
 
-## 🌱 Currently Learning
-
-- Platform Engineering
-- AI Infrastructure
-- Model Context Protocol (MCP)
-- Kubernetes at Scale
-- Cloud Security
-- Developer Experience (DevEx)
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&hide_border=true&theme=transparent"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&hide_border=true&theme=transparent"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&hide_border=true&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in **Cloud, Kubernetes, DevSecOps, Platform Engineering, or AI Infrastructure**, feel free to connect or collaborate.
-
-- 🌐 https://aiwithaman.com
-- 💼 https://linkedin.com/in/amanpatelit
-- 📺 https://youtube.com/c/amanpateltalks
-- 📧 amanpatel.itofficial@gmail.com
+<p align="center">
+<a href="https://aiwithaman.com">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/amanpatelit">💼 LinkedIn</a> •
+<a href="https://github.com/amanpatelit">💻 GitHub</a> •
+<a href="https://youtube.com/c/amanpateltalks">📺 YouTube</a> •
+<a href="mailto:amanpatel.itofficial@gmail.com">📧 Email</a>
+</p>
 
 ---
 
 <p align="center">
-<i>"Building secure, scalable cloud-native platforms through automation."</i>
+  <b>💡 Building secure, scalable cloud-native platforms through automation.</b>
 </p>
+
+<p align="center">
+⭐ <i>If you find my work valuable, consider starring my repositories and following me for more content on Cloud, Kubernetes, DevSecOps, and Platform Engineering.</i>
+</p>
+```
