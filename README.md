@@ -112,5 +112,4 @@ Building scalable cloud platforms, automating infrastructure, and securing moder
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b><br>
-If you enjoy my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
 </p>
