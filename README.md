@@ -14,16 +14,8 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 - 🔭 Currently building cloud-native platforms, AI Infrastructure, and scalable DevSecOps solutions
 - 🌱 Continuously learning Platform Engineering, AI Infrastructure, and Cloud Security
-- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, and AI Infrastructure
-- ⚡ Fun fact: I enjoy automating everything that can be automated.
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,linux,python,go,prometheus,grafana,vscode&perline=12" />
-</p>
+- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, Platform Engineering, and AI Infrastructure
+- ⚡ I enjoy automating everything that can be automated.
 
 ---
 
@@ -36,31 +28,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amanpatelit&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🛠️ Core Expertise
+## 💼 Core Expertise
 
 - ☁️ AWS Cloud Architecture
 - ☸️ Kubernetes & Container Orchestration
@@ -77,9 +45,9 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 - Platform Engineering
 - AI Infrastructure
-- MLOps
 - Advanced Kubernetes
 - Cloud Security
+- AI Agents & Automation
 
 ---
 
@@ -102,14 +70,30 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
-Building scalable cloud platforms, automating infrastructure, and securing modern applications—one deployment at a time.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpatelit&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+<p align="center">
+Building secure cloud platforms, automating infrastructure, and enabling scalable innovation.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
+Thanks for visiting my profile!<br>
 </p>
