@@ -4,24 +4,6 @@
 Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
 </h3>
 
-<p align="center">
-  <a href="https://aiwithaman.com">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-aiwithaman.com-0f172a?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amanpatelit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/c/amanpateltalks">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-dc2626?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:amanpatel.itofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-475569?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -32,7 +14,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 - 🔭 Currently building cloud-native platforms, AI Infrastructure, and scalable DevSecOps solutions
 - 🌱 Continuously learning Platform Engineering, AI Infrastructure, and Cloud Security
-- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, and DevSecOps
+- 💬 Ask me about AWS, Kubernetes, Terraform, GitOps, DevSecOps, and AI Infrastructure
 - ⚡ Fun fact: I enjoy automating everything that can be automated.
 
 ---
@@ -54,18 +36,18 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amanpatelit&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amanpatelit&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -78,7 +60,30 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-## 🌍 Connect With Me
+## 🛠️ Core Expertise
+
+- ☁️ AWS Cloud Architecture
+- ☸️ Kubernetes & Container Orchestration
+- 🔐 DevSecOps & Cloud Security
+- ⚙️ Platform Engineering
+- 🏗️ Infrastructure as Code (Terraform & Ansible)
+- 🚀 CI/CD Automation (GitHub Actions)
+- 📊 Monitoring & Observability (Prometheus & Grafana)
+- 🤖 AI Infrastructure & MLOps
+
+---
+
+## 🌱 Currently Learning
+
+- Platform Engineering
+- AI Infrastructure
+- MLOps
+- Advanced Kubernetes
+- Cloud Security
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/amanpatelit">
@@ -97,16 +102,19 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 🚀 Engineering Secure Cloud Platforms • Kubernetes • DevSecOps • AI Infrastructure
-</h3>
+</h2>
 
 <p align="center">
-<em>
-Building reliable cloud platforms, automating operations, and securing modern infrastructure—one deployment at a time.
-</em>
+Building scalable cloud platforms, automating infrastructure, and securing modern applications—one deployment at a time.
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider following me and connecting on LinkedIn.
+<img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+⭐ <b>Thanks for visiting my profile!</b><br>
+If you enjoy my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
 </p>
