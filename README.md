@@ -24,7 +24,7 @@ Senior Cloud DevSecOps Engineer • AWS • Kubernetes • Platform Engineering
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS. 
 
@@ -37,7 +37,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,linux,python,go,prometheus,grafana,vscode&perline=12" />
@@ -45,7 +45,7 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
