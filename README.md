@@ -107,10 +107,6 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 </h2>
 
 <p align="center">
-Building scalable cloud platforms, automating infrastructure, and securing modern applications—one deployment at a time.
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
