@@ -1,39 +1,49 @@
 <div align="center">
 
-# 👋 Hi, I'm Aman Patel
+# Aman Patel
 
 ### Senior Cloud DevSecOps Engineer
 
 **AWS • Kubernetes • Platform Engineering • DevSecOps • AI Infrastructure**
 
-Building secure, scalable, and automated cloud platforms.
+Designing secure, scalable, and automated cloud-native platforms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanpatelit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome)](https://aiwithaman.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/amanpateltalks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanpatelit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aiwithaman.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aiwithaman.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/amanpateltalks)
 
 </div>
 
 ---
 
-## 💡 About Me
+# About Me
 
-I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** helping organizations build secure, scalable, and production-ready cloud platforms.
+I am a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** building enterprise-grade cloud infrastructure, modern DevOps platforms, and secure Kubernetes environments.
 
-My expertise spans:
+My expertise includes designing highly available AWS architectures, automating infrastructure provisioning, implementing DevSecOps best practices, and delivering scalable CI/CD platforms that accelerate software delivery while maintaining security and operational excellence.
 
-- ☁️ Cloud Architecture on AWS
-- ☸️ Kubernetes & Container Platforms
-- 🔐 DevSecOps & Cloud Security
-- 🚀 CI/CD Automation
-- 🏗️ Infrastructure as Code
-- 🤖 AI Infrastructure & Platform Engineering
+I am passionate about Platform Engineering, AI Infrastructure, Cloud Security, and Infrastructure Automation, with a strong focus on building reliable systems that scale efficiently.
 
-> **"Automate everything. Secure by default. Scale with confidence."**
+> **"Automate everything. Secure by design. Scale with confidence."**
 
 ---
 
-## ⚡ Tech Stack
+# Core Expertise
+
+- Cloud Architecture (AWS)
+- Kubernetes & Container Platforms
+- Platform Engineering
+- DevSecOps & Cloud Security
+- Infrastructure as Code (Terraform, Ansible)
+- CI/CD Automation
+- Linux & Automation
+- Monitoring & Observability
+- AI Infrastructure
+- Site Reliability Engineering (SRE)
+
+---
+
+# Technology Stack
 
 <p align="center">
 
@@ -43,23 +53,20 @@ My expertise spans:
 
 ---
 
-## 🚀 What I Build
+# Areas of Focus
 
-✅ Cloud-Native Infrastructure
-
-✅ Kubernetes Platforms
-
-✅ DevSecOps Pipelines
-
-✅ Infrastructure Automation
-
-✅ Secure CI/CD Workflows
-
-✅ AI-Ready Cloud Infrastructure
+- Cloud-Native Infrastructure
+- Kubernetes Platform Engineering
+- Infrastructure Automation
+- Secure CI/CD Pipelines
+- DevSecOps Implementation
+- Multi-Environment Deployments
+- Observability & Monitoring
+- AI-Ready Cloud Platforms
 
 ---
 
-## 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -71,17 +78,17 @@ My expertise spans:
 
 ---
 
-## 🌱 Currently Learning
+# Current Focus
 
 - Platform Engineering
 - AI Infrastructure
+- Kubernetes at Scale
 - Cloud Security
-- Advanced Kubernetes
-- AI Agents & MCP
+- AI Agents & Model Context Protocol (MCP)
 
 ---
 
-## 🤝 Let's Connect
+# Connect
 
 <p align="center">
 
@@ -107,7 +114,7 @@ My expertise spans:
 
 <div align="center">
 
-### 🚀 Building Cloud Platforms • Automating Infrastructure • Enabling AI
+### Building Cloud Platforms • Automating Infrastructure • Enabling AI
 
 <img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
 
