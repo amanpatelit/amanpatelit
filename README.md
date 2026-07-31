@@ -1,43 +1,72 @@
-# Hi, I'm Aman Patel 👋
+<div align="center">
 
-### Senior Cloud DevSecOps Engineer | AWS | Kubernetes | Platform Engineering
+# 👋 Hi, I'm Aman Patel
 
-I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** building secure, scalable, and automated cloud infrastructure on AWS.
+### Senior Cloud DevSecOps Engineer
 
-I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineering, Infrastructure as Code, and AI Infrastructure**.
+**AWS • Kubernetes • Platform Engineering • DevSecOps • AI Infrastructure**
 
----
+Building secure, scalable, and automated cloud platforms.
 
-## 🚀 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amanpatelit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome)](https://aiwithaman.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/amanpateltalks)
 
-- ☁️ AWS
-- ☸️ Kubernetes
-- 🐳 Docker
-- 🌍 Terraform
-- ⚙️ Ansible
-- 🔄 GitHub Actions
-- 🔐 DevSecOps
-- 📊 Prometheus & Grafana
-- 🤖 AI Infrastructure
+</div>
 
 ---
 
-## 💼 What I Do
+## 💡 About Me
 
-- Design scalable cloud infrastructure
-- Build Kubernetes platforms
-- Automate infrastructure with Terraform & Ansible
-- Implement secure CI/CD pipelines
-- Improve cloud security and reliability
-- Build AI-ready infrastructure
+I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** helping organizations build secure, scalable, and production-ready cloud platforms.
+
+My expertise spans:
+
+- ☁️ Cloud Architecture on AWS
+- ☸️ Kubernetes & Container Platforms
+- 🔐 DevSecOps & Cloud Security
+- 🚀 CI/CD Automation
+- 🏗️ Infrastructure as Code
+- 🤖 AI Infrastructure & Platform Engineering
+
+> **"Automate everything. Secure by default. Scale with confidence."**
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,linux,bash,python,git,prometheus,grafana&perline=6"/>
+
+</p>
+
+---
+
+## 🚀 What I Build
+
+✅ Cloud-Native Infrastructure
+
+✅ Kubernetes Platforms
+
+✅ DevSecOps Pipelines
+
+✅ Infrastructure Automation
+
+✅ Secure CI/CD Workflows
+
+✅ AI-Ready Cloud Infrastructure
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
@@ -46,18 +75,40 @@ I specialize in **Cloud Architecture, Kubernetes, DevSecOps, Platform Engineerin
 
 - Platform Engineering
 - AI Infrastructure
-- Advanced Kubernetes
 - Cloud Security
+- Advanced Kubernetes
+- AI Agents & MCP
 
 ---
 
-## 📫 Connect
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/amanpatelit
-- 💻 GitHub: https://github.com/amanpatelit
-- 🌐 Portfolio: https://aiwithaman.com
-- ▶️ YouTube: https://youtube.com/c/amanpateltalks
+<p align="center">
+
+<a href="https://linkedin.com/in/amanpatelit">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/amanpatelit">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://youtube.com/c/amanpateltalks">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://aiwithaman.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-> *Building secure cloud platforms, automating infrastructure, and enabling scalable innovation.*
+<div align="center">
+
+### 🚀 Building Cloud Platforms • Automating Infrastructure • Enabling AI
+
+<img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
+
+</div>
