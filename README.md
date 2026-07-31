@@ -1,61 +1,17 @@
-<div align="center">
-
-# Aman Patel
-
-### Senior Cloud DevSecOps Engineer
-
-**AWS • Kubernetes • DevSecOps • Platform Engineering • AI Infrastructure**
-
-Building secure, scalable, and automated cloud-native infrastructure.
-
-<p>
-  <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://aiwithaman.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/c/amanpateltalks">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
 ## About Me
 
-I am a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** in designing, automating, and securing cloud-native infrastructure.
+I am a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** in designing, automating, and securing cloud-native infrastructure on AWS.
 
-My expertise includes AWS, Kubernetes, Infrastructure as Code, CI/CD, cloud security, containerization, and platform engineering. I enjoy building reliable, scalable, and production-ready systems using modern DevOps practices.
+My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, Infrastructure as Code, and CI/CD Automation**. I specialize in building scalable, resilient, and secure platforms that enable organizations to deliver applications efficiently while adhering to modern DevOps and security best practices.
 
----
-
-## Core Skills
-
-- AWS Cloud
-- Kubernetes
-- Docker
-- Terraform
-- Ansible
-- GitHub Actions
-- Jenkins
-- Linux
-- Bash
-- Python
-- Git
-- DevSecOps
-- Platform Engineering
-- Prometheus
-- Grafana
+I am passionate about cloud technologies, automation, and continuous improvement, with a strong interest in **AI Infrastructure**, **Platform Engineering**, and **Cloud Security**.
 
 ---
 
 ## Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,linux,bash,python,git,prometheus,grafana&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,linux,bash,python,git,prometheus,grafana&perline=7" />
 </p>
 
 ---
@@ -63,17 +19,12 @@ My expertise includes AWS, Kubernetes, Infrastructure as Code, CI/CD, cloud secu
 ## GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=amanpatelit&theme=transparent&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpatelit&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
@@ -81,11 +32,11 @@ My expertise includes AWS, Kubernetes, Infrastructure as Code, CI/CD, cloud secu
 ## Current Focus
 
 - Platform Engineering
+- Cloud-Native Infrastructure
+- Kubernetes at Scale
 - AI Infrastructure
-- Kubernetes
 - Cloud Security
-- Infrastructure Automation
-- AI Agents & MCP
+- AI Agents & Model Context Protocol (MCP)
 
 ---
 
@@ -93,20 +44,20 @@ My expertise includes AWS, Kubernetes, Infrastructure as Code, CI/CD, cloud secu
 
 <p align="center">
 
-<a href="https://github.com/amanpatelit">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="42" />
 </a>
 
 <a href="https://linkedin.com/in/amanpatelit">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42" />
 </a>
 
 <a href="https://aiwithaman.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/c/amanpateltalks">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 </p>
@@ -115,10 +66,10 @@ My expertise includes AWS, Kubernetes, Infrastructure as Code, CI/CD, cloud secu
 
 <div align="center">
 
-**Building secure, scalable, and automated cloud platforms.**
+**Building secure, scalable, and cloud-native platforms with automation at the core.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=amanpatelit&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0A66C2" />
 
 </div>
