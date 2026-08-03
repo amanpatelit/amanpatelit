@@ -54,7 +54,7 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://youtube.com/amanpateltalks">
+<a href="https://youtube.com/@amanpateltalks">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
