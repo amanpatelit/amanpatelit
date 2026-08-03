@@ -66,8 +66,4 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 **Building secure, scalable, and cloud-native platforms with automation at the core.**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=0A66C2" />
-
 </div>
