@@ -4,8 +4,6 @@ I am a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** i
 
 My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, Infrastructure as Code, and CI/CD Automation**. I specialize in building scalable, resilient, and secure platforms that enable organizations to deliver applications efficiently while adhering to modern DevOps and security best practices.
 
-I am passionate about cloud technologies, automation, and continuous improvement, with a strong interest in **AI Infrastructure**, **Platform Engineering**, and **Cloud Security**.
-
 ---
 
 ## Technology Stack
