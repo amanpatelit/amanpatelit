@@ -29,7 +29,7 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 *  Platform Engineering
 *  Cloud-Native Infrastructure
@@ -61,6 +61,6 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 <div align="center">
 
-### ☁️ Building secure, scalable, and cloud-native platforms with automation at the core.
+### "Building secure, scalable, and cloud-native platforms with automation at the core".
 
 </div>
