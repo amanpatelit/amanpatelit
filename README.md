@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Aman Patel
+
 ## About Me
 
 I am a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** in designing, automating, and securing cloud-native infrastructure on AWS.
@@ -6,7 +8,7 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 ---
 
-## Technology Stack
+##  Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,linux,bash,python,git,prometheus,grafana&perline=7" />
@@ -14,7 +16,7 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
@@ -27,43 +29,38 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
-- Platform Engineering
-- Cloud-Native Infrastructure
-- Kubernetes at Scale
-- AI Infrastructure
-- Cloud Security
-- AI Agents & Model Context Protocol (MCP)
+*  Platform Engineering
+*  Cloud-Native Infrastructure
+*  Kubernetes at Scale
+*  AI Infrastructure
+*  Cloud Security
+*  AI Agents & Model Context Protocol (MCP)
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="42" />
-</a>
-
-<a href="https://linkedin.com/in/amanpatelit">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-</a>
-
-<a href="https://aiwithaman.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://youtube.com/@amanpateltalk">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/amanpatelit">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://aiwithaman.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://youtube.com/@amanpateltalk">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-**Building secure, scalable, and cloud-native platforms with automation at the core.**
+### ☁️ Building secure, scalable, and cloud-native platforms with automation at the core.
 
 </div>
