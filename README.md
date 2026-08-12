@@ -1,66 +1,47 @@
 # 👋 Hi, I'm Aman Patel
 
-## About Me
-
-I am a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** in designing, automating, and securing cloud-native infrastructure on AWS.
-
-My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, Infrastructure as Code, and CI/CD Automation**. I specialize in building scalable, resilient, and secure platforms that enable organizations to deliver applications efficiently while adhering to modern DevOps and security best practices.
-
----
-
-##  Technology Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,linux,bash,python,git,prometheus,grafana&perline=7" />
-</p>
-
----
-
-##  GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Aman%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <strong>Senior Cloud DevSecOps Engineer</strong> • Cloud Architecture • Kubernetes • Platform Engineering • Cloud Security
 </p>
-
----
-
-##  Current Focus
-
-*  Platform Engineering
-*  Cloud-Native Infrastructure
-*  Kubernetes at Scale
-*  AI Infrastructure
-*  Cloud Security
-*  AI Agents & Model Context Protocol (MCP)
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/amanpatelit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/github/followers/amanpatelit?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/amanpatelit">
+    <img src="https://img.shields.io/github/stars/amanpatelit?label=Stars&style=for-the-badge&logo=github&color=181717" />
   </a>
   <a href="https://linkedin.com/in/amanpatelit">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aiwithaman.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://youtube.com/@amanpateltalk">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/Portfolio-aiwithaman.com-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-### "Building secure, scalable, and cloud-native platforms with automation at the core".
+I'm a **Senior Cloud DevSecOps Engineer** with **4+ years of experience** designing, automating, and securing cloud-native infrastructure on AWS.
 
-</div>
+I specialize in building **scalable, resilient, secure, and highly automated platforms** that help engineering teams ship faster without compromising reliability or security.
+
+My work sits at the intersection of:
+
+```text
+☁️ Cloud Architecture
+      +
+☸️ Kubernetes & Platform Engineering
+      +
+🔐 DevSecOps & Cloud Security
+      +
+⚙️ Infrastructure as Code
+      +
+🚀 CI/CD & Automation
+      +
+🤖 AI Infrastructure & Agents
