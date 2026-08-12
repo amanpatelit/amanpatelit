@@ -4,33 +4,19 @@
 
 I am a **Senior Cloud DevSecOps Engineer** with over **4 years of experience** in designing, automating, and securing cloud-native infrastructure on AWS.
 
-My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, Infrastructure as Code, CI/CD Automation, AI Infrastructure, MLOps, and MCP Servers**. I specialize in building scalable, resilient, and secure platforms that enable organizations to deliver applications and AI workloads efficiently while adhering to modern DevOps, security, and cloud-native best practices.
+My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSecOps, Infrastructure as Code, and CI/CD Automation**. I specialize in building scalable, resilient, and secure platforms that enable organizations to deliver applications efficiently while adhering to modern DevOps and security best practices.
 
 ---
 
-## Technology Stack
+##  Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,githubactions,jenkins,linux,bash,python,git,prometheus,grafana&perline=7" />
 </p>
 
-### AI & MLOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=7" />
-</p>
-
-**AI / MLOps:**
-AI Infrastructure • MLOps • LLMOps • Generative AI • LLM Applications • AI Agents • Model Deployment • Model Serving • ML Pipelines • Experiment Tracking • Vector Databases
-
-### 🔌 MCP & AI Agents
-
-**Model Context Protocol (MCP):**
-MCP Servers • MCP Clients • Tool Integration • AI Agent Infrastructure • Agentic Workflows • Tool Calling • Context Management • AI Automation
-
 ---
 
-## GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
@@ -45,20 +31,16 @@ MCP Servers • MCP Clients • Tool Integration • AI Agent Infrastructure •
 
 ##  Current Focus
 
-*  **Platform Engineering**
-*  **Cloud-Native Infrastructure**
-*  **Kubernetes at Scale**
-*  **AI Infrastructure & Generative AI**
-*  **AI Agents & Agentic Systems**
-*  **MCP Servers & Model Context Protocol**
-*  **MLOps & LLMOps**
-*  **Cloud Security & DevSecOps**
-*  **Infrastructure as Code**
-*  **CI/CD & Platform Automation**
+*  Platform Engineering
+*  Cloud-Native Infrastructure
+*  Kubernetes at Scale
+*  AI Infrastructure
+*  Cloud Security
+*  AI Agents & Model Context Protocol (MCP)
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/amanpatelit">
@@ -79,6 +61,6 @@ MCP Servers • MCP Clients • Tool Integration • AI Agent Infrastructure •
 
 <div align="center">
 
-### "Building secure, scalable, cloud-native, and AI-powered platforms with automation at the core."
+### "Building secure, scalable, and cloud-native platforms with automation at the core".
 
 </div>
