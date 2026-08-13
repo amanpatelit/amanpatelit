@@ -16,19 +16,6 @@ My expertise spans **Cloud Architecture, Kubernetes, Platform Engineering, DevSe
 
 ---
 
-##  GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ##  Current Focus
 
 *  Platform Engineering
