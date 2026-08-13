@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatelit&show_icons=true&locale=en&layout=compact" alt="amanpatelit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpatelit&show_icons=true&locale=en" alt="amanpatelit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpatelit&" alt="amanpatelit" /></p>
