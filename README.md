@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [www.aiwithaman.com](www.aiwithaman.com)
+- 👨‍💻 All of my projects are available at [www.aiwithaman.com](https://www.aiwithaman.com)
 
 - 💬 Ask me about **AI & MCP in cloud & devOps**
 
